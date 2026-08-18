@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0.0",
+  "policy_id": "pol_demo_retail_01",
+  "scheme_type": "retail_indemnity",
+
+  "insurer": {
+    "name": "Star Health and Allied Insurance",
+    "policy_name": "Family Health Optima",
+    "policy_number": "****1234"
+  },
+
+  "coverage": {
+    "sum_insured": 500000,
+    "sum_insured_type": "floater",
+    "policy_period": { "start": "2026-04-01", "end": "2027-03-31" },
+    "members_covered": 3,
+    "confidence": "high"
+  },
+
+  "room_rent": {
+    "cap_type": "absolute_per_day",
+    "cap_value": 5000,
+    "resolved_per_day": 5000,
+    "not_specified": false,
+    "eligible_category": "single_private_ac",
+    "confidence": "high",
+    "source_excerpt": "Room rent is limited to Rs. 5,000 per day or actuals, whichever is lower."
+  },
+
+  "icu_rent": {
+    "cap_type": "percent_of_sum_insured",
+    "cap_value": 2,
+    "resolved_per_day": 10000,
+    "not_specified": false,
+    "eligible_category": "icu",
+    "confidence": "high",
+    "source_excerpt": "ICU charges are limited to 2% of the sum insured per day."
+  },
+
+  "co_pay": {
+    "percent": 10,
+    "applies_to": "all_claims",
+    "confidence": "high",
+    "source_excerpt": "A co-payment of 10% shall apply to every admissible claim."
+  },
+
+  "deductible": { "amount": 0, "confidence": "high" },
+
+  "sub_limits": [
+    {
+      "category": "cataract_surgery_with_iol",
+      "limit_amount": 40000,
+      "basis": "per_eye",
+      "confidence": "medium",
+      "source_excerpt": "Cataract: Rs. 40,000 per eye."
+    },
+    {
+      "category": "ambulance",
+      "limit_amount": 2000,
+      "basis": "per_hospitalization",
+      "confidence": "high",
+      "source_excerpt": "Road ambulance charges up to Rs. 2,000 per hospitalisation."
+    }
+  ],
+
+  "waiting_periods": [
+    { "category": "initial_waiting", "months": 1, "label": null, "confidence": "high", "source_excerpt": "30 days initial waiting period." },
+    { "category": "pre_existing_conditions", "months": 36, "label": null, "confidence": "high", "source_excerpt": "Pre-existing diseases covered after 36 months of continuous cover." },
+    { "category": "specific_ailments", "months": 24, "label": "Hernia, cataract, joint replacement", "confidence": "medium", "source_excerpt": null },
+    { "category": "maternity", "months": 36, "label": null, "confidence": "medium", "source_excerpt": null }
+  ],
+
+  "exclusions": [
+    { "text": "Cosmetic and aesthetic treatment", "confidence": "high" },
+    { "text": "Dental treatment unless arising from an accident", "confidence": "high" },
+    { "text": "Treatment taken outside India", "confidence": "high" }
+  ],
+
+  "network": {
+    "type": "cashless_network",
+    "insurer_key": "star_health",
+    "restricted_to_network": false,
+    "non_network_reimbursement_percent": 100,
+    "confidence": "high"
+  },
+
+  "proportionate_deduction": {
+    "applicable": true,
+    "scalable_component_percent": 70,
+    "exempt_categories": ["consumables", "medicines", "implants", "diagnostics"],
+    "confidence": "high",
+    "note": "Applies when the chosen room rate exceeds room_rent.resolved_per_day."
+  },
+
+  "extraction_meta": {
+    "extracted_at": "2026-08-18T10:00:00Z",
+    "model": "claude-sonnet-4-6",
+    "overall_confidence": "high",
+    "fields_needing_review": [],
+    "source_document": "sample_policies/retail_star_health.txt",
+    "is_mock_data": true
+  }
+}

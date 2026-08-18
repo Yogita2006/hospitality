@@ -1,0 +1,550 @@
+═══════════════════════════════════════════════════════════════════════
+                 ⚠  MOCK DOCUMENT — NOT A REAL POLICY  ⚠
+   Synthetically authored for the Precision Care Challenge 2026 demo.
+   Insurer name, policy number and all figures are fictional. This
+   document must not be relied upon for any insurance purpose.
+═══════════════════════════════════════════════════════════════════════
+
+
+
+
+STAR HEALTH AND ALLIED INSURANCE COMPANY LIMITED
+Registered Office: No. 1, New Tank Street, Valluvarkottam High Road,
+Nungambakkam, Chennai - 600034
+IRDAI Registration No. 129 | CIN: L66010TN2005PLC056649
+Toll Free: 1800-XXX-XXXX | Website: www.example-insurer.invalid
+
+
+UIN: SHAHLIP00000V000000
+
+
+
+
+───────────────────────────────────────────────────────────────────────
+                    FAMILY HEALTH OPTIMA INSURANCE PLAN
+              POLICY SCHEDULE CUM CERTIFICATE OF INSURANCE
+───────────────────────────────────────────────────────────────────────
+
+
+Policy Number              : P/161118/01/2027/001234
+Previous Policy Number     : P/161118/01/2026/001234
+Proposal Date              : 18/03/2026
+Date of Issue              : 25/03/2026
+
+
+Policy Period              : From 00:00 hrs on 01/04/2026
+                             To midnight of 31/03/2027
+
+
+Policyholder               : [PROPOSER NAME]
+Address                    : [ADDRESS], New Delhi - 110075
+Contact                    : [MOBILE] | [EMAIL]
+
+
+Type of Policy             : Individual Family Floater
+Basic Sum Insured          : Rs. 5,00,000/- (Rupees Five Lakh Only)
+Cumulative Bonus Accrued   : Nil (first renewal)
+Total Sum Insured          : Rs. 5,00,000/-
+
+
+Premium (excluding GST)    : Rs. 18,644/-
+GST @ 18%                  : Rs.  3,356/-
+Total Premium Paid         : Rs. 22,000/-
+
+
+Third Party Administrator  : In-House Claims Department
+
+
+
+
+DETAILS OF INSURED PERSONS
+───────────────────────────────────────────────────────────────────────
+Sl.  Name              Relationship      Age    Pre-Existing Disease
+───────────────────────────────────────────────────────────────────────
+1.   [NAME]            Self               41    None declared
+2.   [NAME]            Spouse             38    None declared
+3.   [NAME]            Dependent Child     9    None declared
+───────────────────────────────────────────────────────────────────────
+
+
+
+
+SUMMARY OF KEY LIMITS APPLICABLE TO THIS POLICY
+───────────────────────────────────────────────────────────────────────
+Benefit                          Limit
+───────────────────────────────────────────────────────────────────────
+Room, Boarding & Nursing         Rs. 5,000 per day
+Room Category Entitlement        Single Private A/C Room
+Intensive Care Unit              2% of Sum Insured per day
+Co-payment                       10% of every admissible claim
+Deductible                       Nil
+Pre-Hospitalisation              60 days
+Post-Hospitalisation             90 days
+Domiciliary Hospitalisation      Covered up to Sum Insured
+Day Care Procedures              All listed procedures covered
+AYUSH Treatment                  Covered up to Sum Insured
+───────────────────────────────────────────────────────────────────────
+
+
+Signed for and on behalf of the Company.
+Authorised Signatory. This Schedule forms part of the Policy Wording
+and must be read together with it. In the event of any inconsistency
+between this Schedule and the Policy Wording, the Schedule shall
+prevail.
+
+
+
+
+═══════════════════════════════════════════════════════════════════════
+                          POLICY WORDING
+═══════════════════════════════════════════════════════════════════════
+
+
+
+
+PREAMBLE
+
+
+WHEREAS the Insured Person named in the Schedule has made to the
+Company a proposal which is hereby agreed to be the basis of this
+contract, and has paid the premium specified in the Schedule, the
+Company agrees, subject to the terms, conditions, exclusions and
+definitions contained herein, to indemnify the Insured Person in
+respect of expenses incurred as hereinafter provided.
+
+
+
+
+SECTION 1 - DEFINITIONS OF STANDARD TERMS
+
+
+1.1  "Accident" means a sudden, unforeseen and involuntary event
+     caused by external, visible and violent means.
+
+
+1.2  "Any One Illness" means a continuous period of illness including
+     relapse within 45 days from the date of last consultation with
+     the Hospital where treatment was taken.
+
+
+1.3  "Cashless Facility" means a facility extended by the Company to
+     the Insured Person where the payment of the costs of treatment
+     undergone by the Insured Person in accordance with the policy
+     terms is made directly to the Network Provider by the Company
+     to the extent pre-authorisation is approved.
+
+
+1.4  "Co-payment" means a cost sharing requirement under a health
+     insurance policy that provides that the policyholder will bear
+     a specified percentage of the admissible claim amount. A
+     co-payment does not reduce the Sum Insured.
+
+
+1.5  "Deductible" means a cost sharing requirement under a health
+     insurance policy that provides that the Company will not be
+     liable for a specified rupee amount in case of indemnity
+     policies, which will apply before any benefits are payable.
+
+
+1.6  "Hospital" means any institution established for in-patient
+     care and day care treatment of illness and/or injuries and
+     which has been registered as a Hospital with the local
+     authorities under the Clinical Establishments (Registration and
+     Regulation) Act 2010, or complies with the minimum criteria of
+     at least 10 in-patient beds in towns having a population of
+     less than 10,00,000 and 15 in-patient beds in all other places.
+
+
+1.7  "Network Provider" means Hospitals enlisted by the Company to
+     provide medical services to an Insured Person on payment by a
+     cashless facility.
+
+
+1.8  "Pre-Existing Disease" means any condition, ailment, injury or
+     disease that is diagnosed by a physician within 48 months prior
+     to the effective date of the policy, or for which medical
+     advice or treatment was recommended by or received from a
+     physician within 48 months prior to the effective date.
+
+
+1.9  "Room Rent" means the amount charged by a Hospital towards room
+     and boarding expenses and shall include the associated medical
+     expenses.
+
+
+1.10 "Sum Insured" means the pre-defined limit specified in the
+     Schedule. Sum Insured on floater basis means the maximum limit
+     under the policy for and amongst all Insured Persons named in
+     the Schedule during the policy period.
+
+
+
+
+SECTION 2 - SCOPE OF COVER
+
+
+2.1  In-Patient Treatment
+     The Company shall indemnify medical expenses incurred for
+     hospitalisation of the Insured Person during the policy period
+     for a minimum period of 24 consecutive hours, provided that
+     such expenses are Reasonable and Customary, and shall include:
+
+
+     (a) Room, boarding and nursing expenses as provided by the
+         Hospital, subject to the limit specified at Section 3.1;
+     (b) Intensive Care Unit charges, subject to Section 3.2;
+     (c) Surgeon, anaesthetist, medical practitioner, consultants
+         and specialist fees;
+     (d) Anaesthesia, blood, oxygen, operation theatre charges and
+         surgical appliances;
+     (e) Medicines, drugs and consumables;
+     (f) Diagnostic procedures and diagnostic imaging modalities;
+     (g) Cost of prosthetic and other devices or implants implanted
+         internally during a surgical procedure.
+
+
+2.2  Pre-Hospitalisation
+     Medical expenses incurred during the 60 days immediately
+     preceding the date of admission are payable, provided the
+     in-patient claim is admissible.
+
+
+2.3  Post-Hospitalisation
+     Medical expenses incurred during the 90 days immediately
+     following the date of discharge are payable, provided the
+     in-patient claim is admissible.
+
+
+2.4  Day Care Treatment
+     Medical expenses for day care procedures where the treatment is
+     taken in a Hospital or day care centre in less than 24 hours
+     because of technological advancement are payable.
+
+
+2.5  Road Ambulance
+     Expenses incurred on road ambulance are payable subject to the
+     sub-limit specified in Section 5.
+
+
+2.6  AYUSH Treatment
+     Expenses incurred for in-patient treatment under Ayurveda,
+     Yoga, Naturopathy, Unani, Siddha and Homeopathy systems of
+     medicine in a recognised AYUSH Hospital are payable up to the
+     Sum Insured.
+
+
+
+
+SECTION 3 - LIMITS OF INDEMNITY
+
+
+3.1  Room, Boarding and Nursing Expenses
+     Room rent is limited to Rs. 5,000 per day or actuals, whichever
+     is lower. The Insured Person is entitled to a Single Private
+     A/C Room. Where the Hospital does not follow differential
+     billing based on room category, this limit shall nonetheless
+     apply to the room component of the bill.
+
+
+3.2  Intensive Care Unit
+     ICU charges are limited to 2% of the sum insured per day. Where
+     an Insured Person is admitted to an Intensive Care Unit, the
+     limit under Section 3.1 shall not apply for the duration of the
+     ICU stay, and the limit under this Section shall apply instead.
+
+
+3.3  PROPORTIONATE DEDUCTION
+
+
+     Where the Insured Person is admitted to a room category whose
+     rent exceeds the eligible room rent limit specified at Section
+     3.1 above, the Company shall be liable to pay only a
+     proportionate share of the total associated medical expenses,
+     calculated in the ratio of the eligible room rent to the actual
+     room rent incurred.
+
+
+     Illustration: If the eligible room rent is Rs. 5,000 per day
+     and the Insured Person occupies a room charged at Rs. 10,000
+     per day, the Company shall be liable for 50% of the associated
+     medical expenses.
+
+
+     For the purpose of this Section, "associated medical expenses"
+     shall include surgeon fees, operation theatre charges,
+     anaesthetist charges, nursing charges and consultant visit
+     charges.
+
+
+     Proportionate deduction shall NOT apply to the cost of
+     medicines, pharmacy items, consumables, implants and diagnostic
+     investigations, which shall be payable at actuals subject to
+     policy limits.
+
+
+     Proportionate deduction shall not be applied in respect of
+     Hospitals which do not follow differential billing, or where
+     differential billing is not adopted for the specific line items
+     of the bill.
+
+
+3.4  Reasonable and Customary Charges
+     The Company shall not be liable for any amount in excess of
+     charges that are reasonable and customary for the geographical
+     area in which treatment is rendered.
+
+
+
+
+SECTION 4 - CO-PAYMENT AND DEDUCTIBLE
+
+
+4.1  A co-payment of 10% shall apply to every admissible claim under
+     this policy. The co-payment shall be computed on the amount
+     admissible after applying all other terms, conditions and
+     deductions of this policy, including but not limited to the
+     proportionate deduction under Section 3.3 and the sub-limits
+     under Section 5.
+
+
+4.2  No deductible is applicable under this policy.
+
+
+4.3  The co-payment shall be borne by the Insured Person and shall
+     not be reimbursable under any circumstance.
+
+
+
+
+SECTION 5 - SUB-LIMITS
+
+
+Notwithstanding the Sum Insured, the following procedure-specific
+limits shall apply:
+
+
+───────────────────────────────────────────────────────────────────────
+Procedure / Benefit                Limit            Basis
+───────────────────────────────────────────────────────────────────────
+Cataract Surgery                   Rs. 40,000       Per eye
+Road Ambulance Charges             Rs.  2,000       Per hospitalisation
+───────────────────────────────────────────────────────────────────────
+
+
+Where a claim is subject to a sub-limit under this Section, the
+Company's liability shall not exceed the sub-limit irrespective of
+the balance Sum Insured available.
+
+
+
+
+SECTION 6 - WAITING PERIODS
+
+
+6.1  Initial Waiting Period
+     30 days from the date of commencement of the first policy,
+     except in case of accidental injury. This waiting period shall
+     not apply to subsequent renewals without a break.
+
+
+6.2  Pre-Existing Diseases
+     Pre-existing diseases shall be covered after 36 months of
+     continuous coverage with the Company. Coverage under this
+     Section is subject to the pre-existing disease having been
+     declared at the time of proposal and accepted by the Company.
+
+
+6.3  Specific Ailments
+     A waiting period of 24 months applies to the following, when
+     the condition is not pre-existing:
+
+
+     (a) Hernia of all types
+     (b) Cataract
+     (c) Benign prostate hypertrophy
+     (d) Joint replacement surgery (other than due to accident)
+     (e) Hysterectomy for menorrhagia or fibromyoma
+     (f) Piles, fistula and fissure in ano
+     (g) Varicose veins and varicose ulcers
+
+
+6.4  Maternity Expenses
+     Maternity expenses are covered after 36 months of continuous
+     coverage. Expenses for the first two living children only are
+     covered.
+
+
+
+
+SECTION 7 - PERMANENT EXCLUSIONS
+
+
+The Company shall not be liable to make any payment in respect of:
+
+
+7.1   Cosmetic and aesthetic treatment of any description, including
+      but not limited to cosmetic surgery, unless necessitated by an
+      accident, burn or cancer.
+
+
+7.2   Dental treatment, unless arising out of an accident and
+      requiring hospitalisation.
+
+
+7.3   Treatment taken outside India.
+
+
+7.4   Expenses arising from war, invasion, act of foreign enemy,
+      hostilities, civil war, rebellion, or nuclear perils.
+
+
+7.5   Treatment for alcoholism, drug or substance abuse, or any
+      addictive condition and consequences thereof.
+
+
+7.6   Expenses for spectacles, contact lenses and hearing aids.
+
+
+7.7   Any treatment received in convalescent homes, rest homes,
+      health hydros, nature cure clinics or similar establishments.
+
+
+7.8   Sterility, infertility and assisted conception procedures.
+
+
+7.9   Change of gender treatments.
+
+
+7.10  Vitamins and tonics unless forming part of treatment for an
+      injury or disease certified by the attending medical
+      practitioner.
+
+
+7.11  Expenses related to any admission primarily for enforced bed
+      rest, diagnostics or evaluation purposes only.
+
+
+7.12  Participation in hazardous or adventure sports.
+
+
+7.13  Breach of law with criminal intent.
+
+
+
+
+SECTION 8 - NETWORK AND CLAIMS PROCEDURE
+
+
+8.1  Cashless Facility
+     Cashless facility is available at all hospitals in the
+     Company's Network Hospital list. The current list of Network
+     Hospitals is available on the Company's website and is subject
+     to change without notice.
+
+
+8.2  Pre-Authorisation
+     For planned hospitalisation, pre-authorisation must be sought
+     at least 48 hours prior to admission. For emergency
+     hospitalisation, intimation must be given within 24 hours of
+     admission.
+
+
+8.3  Non-Network Hospitalisation
+     Treatment at a non-network hospital shall be reimbursed at 100%
+     subject to policy terms, on submission of original documents
+     within 15 days of discharge.
+
+
+8.4  Documents Required
+     Duly completed claim form, original discharge summary, original
+     hospital bill with break-up, payment receipts, investigation
+     reports, prescriptions, and KYC documents.
+
+
+
+
+SECTION 9 - GENERAL CONDITIONS
+
+
+9.1  Free Look Period
+     The Insured Person has a period of 15 days from the date of
+     receipt of the policy document to review the terms and
+     conditions and to return the policy if not acceptable.
+
+
+9.2  Renewal
+     The policy shall ordinarily be renewable except on grounds of
+     fraud, misrepresentation or moral hazard. A grace period of 30
+     days is allowed for renewal.
+
+
+9.3  Portability
+     The Insured Person may port the policy to another insurer at
+     the time of renewal, subject to IRDAI (Health Insurance)
+     Regulations. Application for portability must be made at least
+     45 days before the renewal date.
+
+
+9.4  Cumulative Bonus
+     A cumulative bonus of 10% of the Sum Insured shall be added for
+     each claim-free year, up to a maximum of 50%.
+
+
+9.5  Nomination
+     The Policyholder is required to appoint a nominee at the
+     inception of the policy. Change of nomination may be made at
+     any time during the policy period by written notice.
+
+
+9.6  Cancellation
+     The Company may cancel this policy on grounds of fraud,
+     misrepresentation or non-disclosure of material facts, by
+     giving 15 days notice. The Insured Person may cancel at any
+     time, and refund shall be made on short period rates.
+
+
+9.7  Fraud
+     If any claim is found to be fraudulent, all benefits under the
+     policy shall be forfeited.
+
+
+
+
+SECTION 10 - GRIEVANCE REDRESSAL
+
+
+10.1 In the event of any grievance, the Insured Person may contact
+     the Grievance Officer at the Company's registered office, or
+     write to the dedicated grievance email address published on the
+     Company's website.
+
+
+10.2 If the grievance is not resolved within 15 days, or if the
+     Insured Person is dissatisfied with the resolution, the matter
+     may be escalated to the IRDAI Grievance Call Centre or through
+     the Integrated Grievance Management System.
+
+
+10.3 The Insured Person may also approach the Insurance Ombudsman
+     appointed under the Insurance Ombudsman Rules, 2017, within
+     whose territorial jurisdiction the branch office of the Company
+     or the residence of the Insured Person is located. The
+     Ombudsman may be approached for disputes relating to partial or
+     total repudiation of claims, delay in settlement, premium
+     disputes, and non-issuance of documents.
+
+
+10.4 Arbitration
+     If any dispute arises as to the quantum payable under this
+     policy, such dispute shall be referred to arbitration in
+     accordance with the Arbitration and Conciliation Act, 1996. It
+     is a condition precedent that an award shall first be obtained
+     before any right of action against the Company shall accrue.
+
+
+
+
+───────────────────────────────────────────────────────────────────────
+                      END OF POLICY DOCUMENT
+             ⚠  MOCK DOCUMENT — NOT A REAL POLICY  ⚠
+───────────────────────────────────────────────────────────────────────

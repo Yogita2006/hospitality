@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0.0",
+  "policy_id": "pol_demo_corporate_01",
+  "scheme_type": "corporate_gmc",
+  "insurer": {
+    "name": "HDFC ERGO General Insurance Company Limited",
+    "policy_name": "Group Mediclaim Policy (GMC)",
+    "policy_number": "****0098"
+  },
+  "coverage": {
+    "sum_insured": 800000,
+    "sum_insured_type": "floater",
+    "policy_period": {
+      "start": "2026-07-01",
+      "end": "2027-06-30"
+    },
+    "members_covered": 4,
+    "confidence": "high"
+  },
+  "room_rent": {
+    "cap_type": "no_limit",
+    "cap_value": null,
+    "resolved_per_day": null,
+    "not_specified": false,
+    "eligible_category": null,
+    "confidence": "high",
+    "source_excerpt": "No capping on room rent is applicable under this Group Policy."
+  },
+  "icu_rent": {
+    "cap_type": "no_limit",
+    "cap_value": null,
+    "resolved_per_day": null,
+    "not_specified": false,
+    "eligible_category": null,
+    "confidence": "high",
+    "source_excerpt": "No separate capping on ICU charges is applicable."
+  },
+  "co_pay": {
+    "percent": 20,
+    "applies_to": "non_network_only",
+    "confidence": "high",
+    "source_excerpt": "A co-payment of 20% shall apply ONLY where treatment is taken at a hospital outside the Network."
+  },
+  "deductible": {
+    "amount": 0,
+    "confidence": "high"
+  },
+  "sub_limits": [
+    {
+      "category": "normal_delivery",
+      "limit_amount": 50000,
+      "basis": "per_claim",
+      "confidence": "high",
+      "source_excerpt": "Maternity \u2014 Normal Delivery Rs. 50,000 Per delivery"
+    },
+    {
+      "category": "cesarean_section",
+      "limit_amount": 75000,
+      "basis": "per_claim",
+      "confidence": "high",
+      "source_excerpt": "Maternity \u2014 Caesarean Section Rs. 75,000 Per delivery"
+    },
+    {
+      "category": "ambulance",
+      "limit_amount": 3000,
+      "basis": "per_hospitalization",
+      "confidence": "high",
+      "source_excerpt": "Road Ambulance Rs. 3,000 Per hospitalisation"
+    }
+  ],
+  "waiting_periods": [
+    {
+      "category": "initial_waiting",
+      "months": 0,
+      "label": null,
+      "confidence": "high",
+      "source_excerpt": "Initial waiting period is WAIVED for this Group Policy."
+    },
+    {
+      "category": "pre_existing_conditions",
+      "months": 0,
+      "label": null,
+      "confidence": "high",
+      "source_excerpt": "Pre-existing diseases are covered from day one under the Group Policy."
+    },
+    {
+      "category": "maternity",
+      "months": 0,
+      "label": null,
+      "confidence": "high",
+      "source_excerpt": "There is no waiting period for maternity under this Group Policy."
+    }
+  ],
+  "exclusions": [
+    {
+      "text": "Cosmetic surgery not necessitated by accident or illness",
+      "confidence": "high"
+    },
+    {
+      "text": "Infertility and assisted reproduction treatment",
+      "confidence": "high"
+    },
+    {
+      "text": "Any treatment not requiring hospitalisation",
+      "confidence": "high"
+    },
+    {
+      "text": "Out-patient consultations",
+      "confidence": "high"
+    },
+    {
+      "text": "Dental treatment other than that necessitated by accident",
+      "confidence": "high"
+    },
+    {
+      "text": "Expenses for spectacles, contact lenses and hearing aids",
+      "confidence": "high"
+    },
+    {
+      "text": "Treatment of alcoholism and drug dependency",
+      "confidence": "high"
+    },
+    {
+      "text": "Experimental or unproven treatment",
+      "confidence": "high"
+    },
+    {
+      "text": "Treatment taken outside India",
+      "confidence": "high"
+    }
+  ],
+  "network": {
+    "type": "cashless_network",
+    "insurer_key": "hdfc_ergo",
+    "restricted_to_network": false,
+    "non_network_reimbursement_percent": 80,
+    "confidence": "high"
+  },
+  "proportionate_deduction": {
+    "applicable": false,
+    "scalable_component_percent": 0,
+    "exempt_categories": [],
+    "confidence": "high",
+    "note": "Waived under this Group Policy; no room rent limit applies."
+  },
+  "extraction_meta": {
+    "extracted_at": "2026-08-18T10:00:00Z",
+    "model": "gemini-3.7-flash",
+    "overall_confidence": "high",
+    "fields_needing_review": [],
+    "source_document": "sample_policies/corporate_gmc.txt",
+    "is_mock_data": true
+  }
+}

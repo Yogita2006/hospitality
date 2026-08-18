@@ -1,0 +1,372 @@
+═══════════════════════════════════════════════════════════════════════
+                 ⚠  MOCK DOCUMENT — NOT A REAL POLICY  ⚠
+   Synthetically authored for the Precision Care Challenge 2026 demo.
+   Insurer name, employer, policy number and all figures are
+   fictional. This document must not be relied upon for any
+   insurance purpose.
+═══════════════════════════════════════════════════════════════════════
+
+
+
+
+HDFC ERGO GENERAL INSURANCE COMPANY LIMITED
+Registered Office: 1st Floor, HDFC House, 165-166 Backbay Reclamation,
+H. T. Parekh Marg, Churchgate, Mumbai - 400020
+IRDAI Registration No. 146 | CIN: U66030MH2007PLC177117
+
+
+
+
+───────────────────────────────────────────────────────────────────────
+                   GROUP MEDICLAIM POLICY (GMC)
+              CERTIFICATE OF INSURANCE — EMPLOYEE COPY
+───────────────────────────────────────────────────────────────────────
+
+
+Master Policy Number       : GMC/2026/HR/0098
+Certificate Number         : EMP/2026/4471
+Group / Policyholder       : [EMPLOYER NAME] — Employer-Sponsored
+                             Group Health Scheme
+Employee Code              : [EMP CODE]
+Date of Joining Scheme     : 01/07/2026
+
+
+Policy Period              : From 00:00 hrs on 01/07/2026
+                             To midnight of 30/06/2027
+
+
+Sum Insured                : Rs. 8,00,000/- Family Floater
+Basis of Cover             : Floater across all covered members
+Premium                    : Borne entirely by the Employer
+
+
+Third Party Administrator  : Appointed TPA — details on the employee
+                             benefits portal
+
+
+
+
+COVERED MEMBERS UNDER THIS CERTIFICATE
+───────────────────────────────────────────────────────────────────────
+Sl.  Name              Relationship        Age
+───────────────────────────────────────────────────────────────────────
+1.   [NAME]            Employee             34
+2.   [NAME]            Spouse               33
+3.   [NAME]            Dependent Child       7
+4.   [NAME]            Dependent Child       4
+───────────────────────────────────────────────────────────────────────
+
+
+Parents and parents-in-law may be added under the optional top-up
+scheme at the employee's own cost during the annual enrolment window.
+Such additions are not covered under this Certificate.
+
+
+
+
+BENEFIT SUMMARY AT A GLANCE
+───────────────────────────────────────────────────────────────────────
+Benefit                          Applicable Terms
+───────────────────────────────────────────────────────────────────────
+Room Rent Capping                Not applicable
+ICU Capping                      Not applicable
+Proportionate Deduction          Waived
+Co-payment (Network)             Nil
+Co-payment (Non-Network)         20%
+Deductible                       Nil
+Pre-Existing Diseases            Covered from day one
+Initial Waiting Period           Waived
+Maternity                        Covered from day one, sub-limits apply
+Pre-Hospitalisation              30 days
+Post-Hospitalisation             60 days
+───────────────────────────────────────────────────────────────────────
+
+
+
+
+═══════════════════════════════════════════════════════════════════════
+                     TERMS AND CONDITIONS
+═══════════════════════════════════════════════════════════════════════
+
+
+
+
+PART A - HOSPITALISATION BENEFITS
+
+
+A.1  Room Category Entitlement
+
+
+     No capping on room rent is applicable under this Group Policy.
+     Members may avail any room category including Single Private
+     A/C and Deluxe, subject to the overall Sum Insured.
+
+
+     The Employer has opted for the enhanced room entitlement
+     variant at the time of policy placement. Members are advised
+     that suite and executive suite categories, where offered by a
+     Hospital at rates materially above the prevailing market rate
+     for a deluxe room, may be reviewed by the TPA for
+     reasonableness.
+
+
+A.2  Intensive Care Unit
+
+
+     No separate capping on ICU charges is applicable. ICU expenses
+     are payable at actuals subject to the Sum Insured.
+
+
+A.3  Proportionate Deduction
+
+
+     Proportionate deduction is WAIVED under this Group Policy.
+     Since no room rent limit applies, associated medical expenses
+     shall be payable in full subject to the Sum Insured.
+
+
+     For the avoidance of doubt, no scaling of surgeon fees,
+     operation theatre charges, nursing charges or consultant
+     charges shall be applied by reference to the room category
+     occupied by the member.
+
+
+A.4  In-Patient Expenses Covered
+
+
+     (a) Room, boarding and nursing charges
+     (b) Intensive care unit charges
+     (c) Surgeon, anaesthetist and consultant fees
+     (d) Operation theatre charges and anaesthesia
+     (e) Medicines, drugs and consumables
+     (f) Diagnostic procedures and imaging
+     (g) Implants and prosthetic devices used during surgery
+
+
+A.5  Pre and Post Hospitalisation
+
+
+     Expenses incurred 30 days prior to admission and 60 days
+     following discharge are payable, provided the in-patient claim
+     has been admitted.
+
+
+A.6  Day Care Procedures
+
+
+     All day care procedures listed by the TPA are covered without
+     the 24-hour hospitalisation requirement.
+
+
+
+
+PART B - CO-PAYMENT AND DEDUCTIBLE
+
+
+B.1  No co-payment is applicable for treatment at Network Hospitals.
+
+
+B.2  A co-payment of 20% shall apply ONLY where treatment is taken
+     at a hospital outside the Network. Members are encouraged to
+     use the Network to avoid this cost sharing.
+
+
+B.3  No deductible is applicable.
+
+
+B.4  Where a member is admitted to a non-network hospital in an
+     emergency and subsequently transferred to a network hospital,
+     the TPA may waive the non-network co-payment at its discretion
+     on production of supporting documentation.
+
+
+
+
+PART C - SUB-LIMITS
+
+
+The following benefit-specific limits apply notwithstanding the
+Sum Insured:
+
+
+───────────────────────────────────────────────────────────────────────
+Benefit                                Limit          Basis
+───────────────────────────────────────────────────────────────────────
+Maternity — Normal Delivery            Rs. 50,000     Per delivery
+Maternity — Caesarean Section          Rs. 75,000     Per delivery
+Road Ambulance                         Rs.  3,000     Per hospitalisation
+───────────────────────────────────────────────────────────────────────
+
+
+Maternity benefit is limited to the first two living children.
+Pre-natal and post-natal expenses are payable within the applicable
+maternity sub-limit and not in addition to it.
+
+
+New born baby cover is available from day one of birth within the
+family floater Sum Insured, subject to the baby being added to the
+Certificate within 30 days of birth.
+
+
+
+
+PART D - WAITING PERIODS
+
+
+D.1  Initial waiting period is WAIVED for this Group Policy. Members
+     are covered from the date of joining the scheme.
+
+
+D.2  Pre-existing diseases are covered from day one under the Group
+     Policy. No waiting period applies.
+
+
+D.3  Maternity benefit is available from day one. There is no
+     waiting period for maternity under this Group Policy.
+
+
+D.4  The waiver of waiting periods applies only for the duration of
+     the member's employment. On exit from the scheme, continuity
+     benefits are subject to the portability provisions at Part G.
+
+
+
+
+PART E - EXCLUSIONS
+
+
+The following are not covered under this Certificate:
+
+
+E.1   Cosmetic surgery not necessitated by accident or illness.
+
+
+E.2   Infertility and assisted reproduction treatment.
+
+
+E.3   Any treatment not requiring hospitalisation.
+
+
+E.4   Out-patient consultations, except where covered under a
+      separate OPD wallet benefit offered by the Employer.
+
+
+E.5   Dental treatment other than that necessitated by accident.
+
+
+E.6   Expenses for spectacles, contact lenses and hearing aids.
+
+
+E.7   Treatment of alcoholism and drug dependency.
+
+
+E.8   Experimental or unproven treatment.
+
+
+E.9   Treatment taken outside India, unless the Employer has opted
+      for the international cover extension, which is not opted
+      under this Master Policy.
+
+
+
+
+PART F - NETWORK AND CLAIMS
+
+
+F.1  Cashless Treatment
+     Cashless treatment is available across the Company's Network
+     Hospitals through the appointed Third Party Administrator. The
+     member must present the health card issued by the TPA along
+     with a government photo identity document at the time of
+     admission.
+
+
+F.2  Pre-Authorisation
+     Planned admissions require pre-authorisation at least 72 hours
+     in advance. Emergency admissions must be intimated to the TPA
+     within 24 hours.
+
+
+F.3  Reimbursement
+     Reimbursement at non-network hospitals is permitted at 80% of
+     admissible expenses. Claim documents must be submitted to the
+     TPA within 30 days of discharge.
+
+
+F.4  Claim Documents
+     Claim form, discharge summary, itemised hospital bill, payment
+     receipts, investigation reports, treating doctor's prescription
+     and the member's bank details for NEFT settlement.
+
+
+
+
+PART G - GENERAL CONDITIONS
+
+
+G.1  Continuity on Exit
+     On cessation of employment, the member ceases to be covered
+     under this Master Policy with effect from the last working day.
+     The member may port to an individual retail policy with the
+     Company, subject to underwriting and to IRDAI (Health
+     Insurance) Regulations.
+
+
+G.2  Mid-Term Additions
+     Newly joined employees and newly married spouses may be added
+     mid-term. New born children may be added within 30 days of
+     birth.
+
+
+G.3  Nomination
+     The member is required to record a nominee on the employee
+     benefits portal.
+
+
+G.4  Non-Disclosure
+     Benefits under this Certificate may be denied where material
+     information has been withheld or misrepresented.
+
+
+G.5  Free Look Period
+     The free look provision does not apply to group policies
+     placed by an Employer.
+
+
+
+
+PART H - GRIEVANCE REDRESSAL
+
+
+H.1  Members should first raise concerns with the Employer's HR
+     benefits desk, which is the designated first point of contact
+     for scheme-related queries.
+
+
+H.2  Unresolved grievances may be escalated to the TPA grievance
+     cell, and thereafter to the Company's Grievance Redressal
+     Officer at the registered office.
+
+
+H.3  If the grievance remains unresolved for 15 days, the member may
+     approach the IRDAI Grievance Call Centre or the Integrated
+     Grievance Management System.
+
+
+H.4  The member may also approach the Insurance Ombudsman appointed
+     under the Insurance Ombudsman Rules, 2017. The territorial
+     jurisdiction of the Ombudsman is determined by the location of
+     the Company's branch office or the residence of the member.
+
+
+H.5  Arbitration
+     Disputes as to quantum shall be referred to arbitration under
+     the Arbitration and Conciliation Act, 1996.
+
+
+
+
+───────────────────────────────────────────────────────────────────────
+                    END OF CERTIFICATE
+             ⚠  MOCK DOCUMENT — NOT A REAL POLICY  ⚠
+───────────────────────────────────────────────────────────────────────

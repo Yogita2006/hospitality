@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0.0",
+  "policy_id": "pol_demo_retail_01",
+  "scheme_type": "retail_indemnity",
+  "insurer": {
+    "name": "Star Health and Allied Insurance Company Limited",
+    "policy_name": "Family Health Optima Insurance Plan",
+    "policy_number": "****1234"
+  },
+  "coverage": {
+    "sum_insured": 500000,
+    "sum_insured_type": "floater",
+    "policy_period": {
+      "start": "2026-04-01",
+      "end": "2027-03-31"
+    },
+    "members_covered": 3,
+    "confidence": "high"
+  },
+  "room_rent": {
+    "cap_type": "absolute_per_day",
+    "cap_value": 5000,
+    "resolved_per_day": 5000,
+    "not_specified": false,
+    "eligible_category": "single_private_ac",
+    "confidence": "high",
+    "source_excerpt": "Room rent is limited to Rs. 5,000 per day or actuals, whichever is lower."
+  },
+  "icu_rent": {
+    "cap_type": "percent_of_sum_insured",
+    "cap_value": 2,
+    "resolved_per_day": 10000,
+    "not_specified": false,
+    "eligible_category": "icu",
+    "confidence": "high",
+    "source_excerpt": "ICU charges are limited to 2% of the sum insured per day."
+  },
+  "co_pay": {
+    "percent": 10,
+    "applies_to": "all_claims",
+    "confidence": "high",
+    "source_excerpt": "A co-payment of 10% shall apply to every admissible claim under this policy."
+  },
+  "deductible": {
+    "amount": 0,
+    "confidence": "high"
+  },
+  "sub_limits": [
+    {
+      "category": "cataract_surgery_with_iol",
+      "limit_amount": 40000,
+      "basis": "per_eye",
+      "confidence": "high",
+      "source_excerpt": "Cataract Surgery Rs. 40,000 Per eye"
+    },
+    {
+      "category": "ambulance",
+      "limit_amount": 2000,
+      "basis": "per_hospitalization",
+      "confidence": "high",
+      "source_excerpt": "Road Ambulance Charges Rs. 2,000 Per hospitalisation"
+    }
+  ],
+  "waiting_periods": [
+    {
+      "category": "initial_waiting",
+      "months": 1,
+      "label": null,
+      "confidence": "high",
+      "source_excerpt": "30 days from the date of commencement of the first policy, except in case of accidental injury."
+    },
+    {
+      "category": "pre_existing_conditions",
+      "months": 36,
+      "label": null,
+      "confidence": "high",
+      "source_excerpt": "Pre-existing diseases shall be covered after 36 months of continuous coverage with the Company."
+    },
+    {
+      "category": "specific_ailments",
+      "months": 24,
+      "label": "Hernia, cataract, joint replacement",
+      "confidence": "high",
+      "source_excerpt": "A waiting period of 24 months applies to the following, when the condition is not pre-existing:"
+    },
+    {
+      "category": "maternity",
+      "months": 36,
+      "label": null,
+      "confidence": "high",
+      "source_excerpt": "Maternity expenses are covered after 36 months of continuous coverage."
+    }
+  ],
+  "exclusions": [
+    {
+      "text": "Cosmetic and aesthetic treatment of any description",
+      "confidence": "high"
+    },
+    {
+      "text": "Dental treatment, unless arising out of an accident",
+      "confidence": "high"
+    },
+    {
+      "text": "Treatment taken outside India",
+      "confidence": "high"
+    },
+    {
+      "text": "Expenses arising from war, invasion, act of foreign enemy, hostilities, civil war, rebellion, or nuclear perils",
+      "confidence": "high"
+    },
+    {
+      "text": "Treatment for alcoholism, drug or substance abuse",
+      "confidence": "high"
+    },
+    {
+      "text": "Expenses for spectacles, contact lenses and hearing aids",
+      "confidence": "high"
+    },
+    {
+      "text": "Any treatment received in convalescent homes, rest homes, health hydros, nature cure clinics",
+      "confidence": "high"
+    },
+    {
+      "text": "Sterility, infertility and assisted conception procedures",
+      "confidence": "high"
+    },
+    {
+      "text": "Change of gender treatments",
+      "confidence": "high"
+    },
+    {
+      "text": "Vitamins and tonics unless forming part of treatment",
+      "confidence": "high"
+    },
+    {
+      "text": "Expenses related to any admission primarily for enforced bed rest, diagnostics or evaluation",
+      "confidence": "high"
+    },
+    {
+      "text": "Participation in hazardous or adventure sports",
+      "confidence": "high"
+    },
+    {
+      "text": "Breach of law with criminal intent",
+      "confidence": "high"
+    }
+  ],
+  "network": {
+    "type": "cashless_network",
+    "insurer_key": "star_health",
+    "restricted_to_network": false,
+    "non_network_reimbursement_percent": 100,
+    "confidence": "high"
+  },
+  "proportionate_deduction": {
+    "applicable": true,
+    "scalable_component_percent": 70,
+    "exempt_categories": [
+      "consumables",
+      "medicines",
+      "implants",
+      "diagnostics"
+    ],
+    "confidence": "high",
+    "note": "Applies when the chosen room rate exceeds room_rent.resolved_per_day."
+  },
+  "extraction_meta": {
+    "extracted_at": "2026-08-18T10:00:00Z",
+    "model": "gemini-3.7-flash",
+    "overall_confidence": "high",
+    "fields_needing_review": [],
+    "source_document": "sample_policies/retail_star_health.txt",
+    "is_mock_data": true
+  }
+}

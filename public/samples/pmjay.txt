@@ -1,0 +1,280 @@
+═══════════════════════════════════════════════════════════════════════
+              ⚠  MOCK DOCUMENT — NOT A REAL ENTITLEMENT  ⚠
+   Synthetically authored for the Precision Care Challenge 2026 demo.
+   Card number, family details and all figures are fictional. This
+   document must not be relied upon for any scheme purpose.
+═══════════════════════════════════════════════════════════════════════
+
+
+
+
+AYUSHMAN BHARAT
+PRADHAN MANTRI JAN AROGYA YOJANA (PM-JAY)
+National Health Authority | State Health Agency, NCT of Delhi
+
+
+              BENEFICIARY ENTITLEMENT SUMMARY
+
+
+
+
+───────────────────────────────────────────────────────────────────────
+                       BENEFICIARY DETAILS
+───────────────────────────────────────────────────────────────────────
+
+
+Ayushman Card Number       : PMJAY-XXXX-XXXX-4471
+Family Identifier          : Household entitlement — all eligible
+                             members covered
+Beneficiary Name           : [NAME]
+State                      : NCT of Delhi
+District                   : South West Delhi
+Entitlement Status         : Active
+Card Issued On             : [DATE]
+
+
+Basis of Inclusion         : Deprivation and occupational criteria
+                             under SECC 2011, as adopted by the
+                             State Health Agency
+
+
+Annual Family Cover        : Rs. 5,00,000 per family per year
+Basis of Cover             : Family floater, package-based
+
+
+
+
+───────────────────────────────────────────────────────────────────────
+                    ENTITLEMENT AT A GLANCE
+───────────────────────────────────────────────────────────────────────
+Item                             Position under the Scheme
+───────────────────────────────────────────────────────────────────────
+Room Entitlement                 General Ward
+Room Rent Cap (rupees)           Not applicable — included in package
+ICU                              Included within package rate
+Co-payment                       Nil
+Deductible                       Nil
+Proportionate Deduction          Not applicable
+Waiting Period                   None
+Pre-Existing Diseases            Covered from day one
+Pre-Hospitalisation              3 days
+Post-Hospitalisation             15 days
+Treatment Network                Empanelled hospitals only
+───────────────────────────────────────────────────────────────────────
+
+
+
+
+═══════════════════════════════════════════════════════════════════════
+                    SCHEME TERMS AND CONDITIONS
+═══════════════════════════════════════════════════════════════════════
+
+
+
+
+1. NATURE OF ENTITLEMENT
+
+
+1.1  PM-JAY is a package-based assurance scheme. There is no
+     individual sum insured in the indemnity sense. The scheme
+     provides cover of Rs. 5,00,000 per family per year on a
+     floater basis, utilised against defined Health Benefit
+     Packages (HBP 2.0).
+
+
+1.2  Payment to the hospital is made at pre-agreed package rates
+     notified by the National Health Authority. The beneficiary
+     pays nothing at the point of care.
+
+
+1.3  A package rate is inclusive of the entire episode of care.
+     It covers consultation, diagnostics, bed charges, nursing,
+     surgeon and anaesthetist charges, medicines, consumables,
+     implants where specified, food for the patient, and follow-up
+     care for the defined post-operative period.
+
+
+1.4  Hospitals are prohibited from charging the beneficiary any
+     amount over and above the package rate for a covered
+     procedure. Any such demand should be reported to the State
+     Health Agency grievance channel.
+
+
+
+
+2. ROOM ENTITLEMENT
+
+
+2.1  Beneficiaries are entitled to General Ward accommodation.
+     Room charges are included within the package rate and are not
+     billed separately. There is no per-day room rent limit
+     expressed in rupees.
+
+
+2.2  Upgrade to a higher room category is not covered under the
+     scheme. Where a beneficiary opts for a higher category, the
+     entire admission moves outside the scheme and becomes payable
+     by the beneficiary.
+
+
+2.3  For the avoidance of doubt, the scheme does not operate a
+     partial or proportionate settlement in such cases. The
+     admission is treated as a private admission in its entirety.
+
+
+2.4  Where a hospital is unable to provide a General Ward bed and
+     accommodates the beneficiary in a higher category for
+     operational reasons, the package rate remains unchanged and
+     the beneficiary bears no additional cost.
+
+
+
+
+3. INTENSIVE CARE
+
+
+3.1  ICU care, where clinically indicated, is included within the
+     applicable package rate. No separate ICU per-day limit
+     applies.
+
+
+3.2  Certain high-end critical care packages carry their own
+     defined rates under HBP 2.0 and may be claimed where the
+     clinical criteria specified in the package definition are met.
+
+
+
+
+4. CO-PAYMENT AND DEDUCTIBLE
+
+
+4.1  PM-JAY is a fully cashless scheme. No co-payment is payable by
+     the beneficiary.
+
+
+4.2  No deductible applies.
+
+
+4.3  Transport allowance, where notified by the State Health
+     Agency, may be paid to the beneficiary on discharge.
+
+
+
+
+5. PROPORTIONATE DEDUCTION
+
+
+5.1  Not applicable. Package rates are fixed and are not scaled
+     against room category.
+
+
+
+
+6. WAITING PERIODS
+
+
+6.1  There is no waiting period. All conditions, including
+     pre-existing diseases, are covered from the first day of
+     entitlement.
+
+
+6.2  There is no age limit and no restriction on family size under
+     the scheme.
+
+
+
+
+7. EXCLUSIONS
+
+
+The following are not covered:
+
+
+7.1  Treatment at hospitals not empanelled under PM-JAY.
+
+
+7.2  Out-patient department (OPD) consultations and procedures.
+
+
+7.3  Cosmetic procedures.
+
+
+7.4  Individual diagnostics not forming part of a package.
+
+
+7.5  Drug rehabilitation programmes.
+
+
+7.6  Fertility related procedures.
+
+
+
+
+8. HOSPITAL NETWORK
+
+
+8.1  Treatment is available ONLY at hospitals empanelled under
+     PM-JAY. Treatment at a non-empanelled hospital is not
+     reimbursable under any circumstance.
+
+
+8.2  The list of empanelled hospitals is published by the National
+     Health Authority and the State Health Agency and is subject to
+     periodic revision. Beneficiaries are advised to verify
+     empanelment status before admission.
+
+
+8.3  Both public and private empanelled hospitals may be accessed.
+     Certain packages are reserved for public hospitals under the
+     State's implementation guidelines.
+
+
+
+
+9. AVAILING TREATMENT
+
+
+9.1  The beneficiary should approach the Ayushman Mitra help desk
+     located at the empanelled hospital.
+
+
+9.2  Identity is verified against the Ayushman card and a
+     government photo identity document. Biometric or OTP based
+     verification may be used.
+
+
+9.3  The hospital raises a pre-authorisation request against the
+     applicable package. On approval, treatment proceeds cashless.
+
+
+9.4  On discharge, the beneficiary signs the claim documentation.
+     No payment is collected from the beneficiary.
+
+
+
+
+10. GRIEVANCE REDRESSAL
+
+
+10.1 Beneficiaries may raise grievances through the national
+     helpline 14555, the Centralised Grievance Redressal Management
+     System, or the District Grievance Redressal Committee.
+
+
+10.2 Complaints regarding denial of treatment, demand for payment,
+     or refusal of admission by an empanelled hospital should be
+     raised immediately through the Ayushman Mitra desk or the
+     State Health Agency.
+
+
+10.3 Action against empanelled hospitals for violation of scheme
+     conditions is taken by the State Health Agency in accordance
+     with the empanelment agreement.
+
+
+
+
+───────────────────────────────────────────────────────────────────────
+                  END OF ENTITLEMENT SUMMARY
+          ⚠  MOCK DOCUMENT — NOT A REAL ENTITLEMENT  ⚠
+───────────────────────────────────────────────────────────────────────

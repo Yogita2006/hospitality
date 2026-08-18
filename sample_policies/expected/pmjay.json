@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0.0",
+  "policy_id": "pol_demo_pmjay_01",
+  "scheme_type": "government_scheme",
+  "insurer": {
+    "name": "Ayushman Bharat PM-JAY",
+    "policy_name": "Pradhan Mantri Jan Arogya Yojana",
+    "policy_number": "****4471"
+  },
+  "coverage": {
+    "sum_insured": 500000,
+    "sum_insured_type": "package_based",
+    "policy_period": null,
+    "members_covered": null,
+    "confidence": "high"
+  },
+  "room_rent": {
+    "cap_type": "category_entitlement",
+    "cap_value": null,
+    "resolved_per_day": null,
+    "not_specified": false,
+    "eligible_category": "general_ward",
+    "confidence": "high",
+    "source_excerpt": "Beneficiaries are entitled to General Ward accommodation."
+  },
+  "icu_rent": {
+    "cap_type": "category_entitlement",
+    "cap_value": null,
+    "resolved_per_day": null,
+    "not_specified": false,
+    "eligible_category": "icu",
+    "confidence": "high",
+    "source_excerpt": "ICU care, where clinically indicated, is included within the applicable package rate."
+  },
+  "co_pay": {
+    "percent": 0,
+    "applies_to": "none",
+    "confidence": "high",
+    "source_excerpt": "No co-payment is payable by the beneficiary."
+  },
+  "deductible": {
+    "amount": 0,
+    "confidence": "high"
+  },
+  "sub_limits": [],
+  "waiting_periods": [
+    {
+      "category": "pre_existing_conditions",
+      "months": 0,
+      "label": null,
+      "confidence": "high",
+      "source_excerpt": "All conditions, including pre-existing diseases, are covered from the first day of entitlement."
+    }
+  ],
+  "exclusions": [
+    {
+      "text": "Treatment at hospitals not empanelled under PM-JAY",
+      "confidence": "high"
+    },
+    {
+      "text": "Out-patient department (OPD) consultations and procedures",
+      "confidence": "high"
+    },
+    {
+      "text": "Cosmetic procedures",
+      "confidence": "high"
+    },
+    {
+      "text": "Individual diagnostics not forming part of a package",
+      "confidence": "high"
+    },
+    {
+      "text": "Drug rehabilitation programmes",
+      "confidence": "high"
+    },
+    {
+      "text": "Fertility related procedures",
+      "confidence": "high"
+    }
+  ],
+  "network": {
+    "type": "empanelled_scheme",
+    "insurer_key": "pmjay",
+    "restricted_to_network": true,
+    "non_network_reimbursement_percent": 0,
+    "confidence": "high"
+  },
+  "proportionate_deduction": {
+    "applicable": false,
+    "scalable_component_percent": 0,
+    "exempt_categories": [],
+    "confidence": "high",
+    "note": "Package rates are fixed and are not scaled against room category."
+  },
+  "extraction_meta": {
+    "extracted_at": "2026-08-18T10:00:00Z",
+    "model": "gemini-3.7-flash",
+    "overall_confidence": "high",
+    "fields_needing_review": [],
+    "source_document": "sample_policies/pmjay.txt",
+    "is_mock_data": true
+  }
+}

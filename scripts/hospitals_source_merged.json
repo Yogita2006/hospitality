@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "hosp_aiims_01",
+    "name": "All India Institute of Medical Sciences (AIIMS), New Delhi",
+    "location": "Ansari Nagar, New Delhi",
+    "specialties": [
+      "Anesthesiology, Pain Medicine and Critical Care",
+      "Anatomy",
+      "Biochemistry",
+      "Biophysics",
+      "Biostatistics",
+      "Cardiology",
+      "Cardiothoracic and Vascular Surgery",
+      "Centre for Dental Education and Research",
+      "College of Nursing",
+      "Community Medicine",
+      "Dermatology and Venereology",
+      "Dietetics",
+      "Emergency Medicine",
+      "Endocrinology, Metabolism and Diabetes",
+      "Forensic Medicine and Toxicology",
+      "Gastroenterology and Human Nutrition",
+      "Gastrointestinal Surgery and Liver Transplantation",
+      "Geriatric Medicine",
+      "Hematology",
+      "Hospital Administration",
+      "Laboratory Medicine",
+      "Medicine (General Medicine)",
+      "Microbiology",
+      "Nephrology",
+      "Neurology",
+      "Neurosurgery",
+      "Nuclear Medicine",
+      "Obstetrics and Gynecology",
+      "Ophthalmology (Dr. R.P. Centre)",
+      "Orthopedics",
+      "Otolaryngology (ENT)",
+      "Oncology (Dr. B.R.A. IRCH - Medical, Surgical, Radiation)",
+      "Pediatrics",
+      "Pediatric Surgery",
+      "Pathology",
+      "Pharmacology",
+      "Physiology",
+      "Psychiatry and National Drug Dependence Treatment Centre (NDDTC)",
+      "Pulmonary, Critical Care and Sleep Medicine",
+      "Radio-Diagnosis",
+      "Radiation Oncology",
+      "Reproductive Biology",
+      "Rheumatology",
+      "Surgical Disciplines (General Surgery)",
+      "Transfusion Medicine (Blood Bank)",
+      "Trauma Care (JPN Apex Trauma Centre)",
+      "Urology"
+    ],
+    "room_types": {
+      "general_ward": 0,
+      "semi_private": 3000,
+      "private": 6300
+    },
+    "key_charges": {
+      "opd_registration": 10,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_hindurao_02",
+    "name": "Bara Hindu Rao Hospital (MCD Medical College)",
+    "location": "Gandhi Square, Malka Ganj, Delhi - 110007",
+    "specialties": [
+      "General Medicine",
+      "General Surgery",
+      "Cardiology",
+      "Neurology",
+      "Orthopedics",
+      "Pediatrics",
+      "Gynecology and Obstetrics",
+      "Dermatology",
+      "Otolaryngology (ENT)",
+      "Ophthalmology",
+      "Urology",
+      "Psychiatry",
+      "Dentistry",
+      "Plastic Surgery",
+      "Forensic Medicine",
+      "Anesthesia",
+      "Pathology",
+      "Microbiology",
+      "Biochemistry",
+      "Radiology"
+    ],
+    "room_types": {
+      "general_ward": 0,
+      "semi_private": 300,
+      "private": 600
+    },
+    "key_charges": {
+      "opd_registration": 30,
+      "diet_charges_per_day": 10
+    }
+  },
+  {
+    "id": "hosp_ddu_03",
+    "name": "Deen Dayal Upadhyay Hospital (DDU)",
+    "location": "Shaheed Mangal Pandey Marg, Nanak Pura, Hari Nagar, New Delhi - 110064",
+    "specialties": [
+      "General Medicine",
+      "General Surgery",
+      "Orthopedics",
+      "Pediatrics",
+      "Obstetrics and Gynecology",
+      "Ophthalmology (Eye)",
+      "Otolaryngology (ENT)",
+      "Dermatology",
+      "Psychiatry",
+      "Anaesthesia",
+      "Radiology & Radio-Diagnosis",
+      "Pathology & Laboratory Medicine",
+      "Biochemistry",
+      "Microbiology",
+      "Blood Bank & Transfusion",
+      "Dental Surgery",
+      "Physiotherapy",
+      "Emergency Medicine & Trauma Care"
+    ],
+    "room_types": {
+      "general_ward": 0,
+      "semi_private": 0,
+      "private": 0
+    },
+    "key_charges": {
+      "opd_registration": 0,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_gangaram_04",
+    "name": "Sir Ganga Ram City Hospital",
+    "location": "B-1/1, N.E.A, Pusa Road, Near Karol Bagh Metro Pillar Number 93, New Delhi - 110005",
+    "specialties": [
+      "Cardiology",
+      "Gastroenterology and GI Surgery",
+      "Neurology and Neurosurgery",
+      "Orthopedics and Joint Replacement",
+      "Pediatrics and Paediatric Surgery",
+      "Gynecology and Obstetrics",
+      "Urology and Renal Transplantation",
+      "Surgical Oncology",
+      "Dermatology",
+      "Pulmonology and Sleep Medicine",
+      "Nephrology and Dialysis",
+      "Otolaryngology (ENT)",
+      "Ophthalmology",
+      "Psychiatry and Mental Health",
+      "Internal Medicine",
+      "General Laparoscopic Surgery",
+      "Plastic and Reconstructive Surgery",
+      "Radiology and Radio-Diagnosis",
+      "Pathology and Laboratory Medicine"
+    ],
+    "room_types": {
+      "general_ward": 5500,
+      "semi_private": 7300,
+      "private": 10000
+    },
+    "key_charges": {
+      "opd_registration": 1200,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_agrasen_05",
+    "name": "Maharaja Agrasen Hospital",
+    "location": "1, Jain Muni Guru Ramkrishan Marg, Near Shivaji Park Metro Station, West Punjabi Bagh, New Delhi - 110026",
+    "specialties": [
+      "Anesthesiology",
+      "Audiology and Speech Pathology",
+      "Bariatric Surgery",
+      "Cardiovascular and Thoracic Surgery (24x7 Heart Centre)",
+      "Clinical Immunology and Rheumatology",
+      "Dermatology and Venereology",
+      "Endocrinology and Metabolism",
+      "Emergency Medicine and Accidental Care (24x7)",
+      "Gastroenterology and GI Surgery (Advanced Laparoscopic)",
+      "General Medicine (DNB Post Graduate Program)",
+      "General Surgery",
+      "Hematology",
+      "Infertility and IVF Services",
+      "Imaging and Interventional Radiology (Advanced CT/MRI)",
+      "Joint Replacement and Orthopedics",
+      "Laboratory Medicine (Bio-Chemistry, Pathology, Microbiology)",
+      "Nephrology and Dialysis",
+      "Neurology and Neurosurgery",
+      "Obstetrics and Gynecology",
+      "Ophthalmology (Eye Care)",
+      "Otolaryngology (ENT)",
+      "Pediatrics and Paediatric Surgery",
+      "Psychiatry and Psychology",
+      "Pulmonology and Sleep Medicine",
+      "Transfusion Medicine (Blood Bank Component Facility)",
+      "Urology and Renal Transplantation"
+    ],
+    "room_types": {
+      "general_ward": 2500,
+      "semi_private": 4000,
+      "private": 7500
+    },
+    "key_charges": {
+      "opd_registration": 70,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_chanandevi_06",
+    "name": "Mata Chanan Devi Hospital",
+    "location": "C-1, Lal Sai Mandir Marg, Block C1, Janakpuri, New Delhi, Delhi - 110058",
+    "specialties": [
+      "Anaesthesiology",
+      "Audiology and Speech Pathology",
+      "Cardiology and Interventional Cath Lab",
+      "Cardiothoracic and Vascular Surgery (CTVS)",
+      "Critical Care Medicine (ICU & CCU)",
+      "Dentistry and Oral Maxillofacial Surgery",
+      "Dermatology and Venereology",
+      "Emergency & Trauma Centre (24x7)",
+      "Endocrinology and Metabolism",
+      "Gastroenterology and Hepatology",
+      "General and Advanced Laparoscopic Surgery",
+      "G.I. Surgery",
+      "Gynecology and Obstetrics",
+      "IVF & Infertility Treatment Centre",
+      "Medicine (Internal Medicine)",
+      "Neonatology and Centre for Care of Newborn",
+      "Nephrology and Dialysis Unit",
+      "Neurology and Neurosurgery",
+      "Oncology (Medical and Surgical Cancer Care)",
+      "Ophthalmology (Charitable Eye Care History)",
+      "Orthopedics and Joint Replacement Surgery",
+      "Otolaryngology (ENT)",
+      "Paediatrics and Adolescent Care",
+      "Pathology and Laboratory Medicine",
+      "Physiotherapy and Rehabilitation",
+      "Psychiatry and Mental Health",
+      "Pulmonology and Respiratory Sleep Medicine",
+      "Radio-Diagnosis and Imaging (X-Ray, Ultrasound, CT)",
+      "Rheumatology",
+      "Transfusion Medicine (Blood Bank Component Facility)",
+      "Urology and Renal Transplantation"
+    ],
+    "room_types": {
+      "general_ward": 2000,
+      "semi_private": 4500,
+      "private": 9500
+    },
+    "key_charges": {
+      "opd_registration": 150,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_lnjp_07",
+    "name": "Lok Nayak Hospital (LNJP / MAMC)",
+    "location": "Jawaharlal Nehru Marg, Near Delhi Gate Metro Station, New Delhi, Delhi - 110002",
+    "specialties": [
+      "Anesthesia and Critical Care",
+      "Burns, Plastic and Maxillofacial Surgery",
+      "Cardiology",
+      "Cardiothoracic and Vascular Surgery (CTVS)",
+      "Dermatology, Venereology and Leprosy",
+      "Dietetics",
+      "Emergency Medicine and Trauma Care (24x7)",
+      "Endocrinology and Metabolism",
+      "Forensic Medicine and Toxicology",
+      "Gastroenterology and Hepatology",
+      "Gastrointestinal Surgery",
+      "General Medicine (Internal Medicine)",
+      "General Surgery",
+      "Geriatric Medicine",
+      "Hematology",
+      "Microbiology, Pathology and Biochemistry (Lab Medicine)",
+      "Nephrology and Dialysis Services",
+      "Neurology",
+      "Neurosurgery",
+      "Nuclear Medicine",
+      "Obstetrics and Gynecology",
+      "Ophthalmology (Guru Nanak Eye Centre Annex)",
+      "Orthopedics and Joint Replacement",
+      "Otolaryngology (ENT)",
+      "Pediatrics and Neonatology",
+      "Pediatric Surgery",
+      "Psychiatry and De-addiction Centre",
+      "Pulmonary Medicine and Respiratory Care",
+      "Radio-Diagnosis and Imaging (X-Ray, Ultrasound, Advanced CT/MRI)",
+      "Radiotherapy and Oncology (Cancer Care)",
+      "Rheumatology",
+      "Transfusion Medicine (Blood Bank Component Facility)",
+      "Urology"
+    ],
+    "room_types": {
+      "general_ward": 0,
+      "semi_private": 0,
+      "private": 0
+    },
+    "key_charges": {
+      "opd_registration": 0,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_moolchand_08",
+    "name": "Moolchand Medcity",
+    "location": "Lala Lajpat Rai Marg, Near Moolchand Metro Station, Lajpat Nagar III, New Delhi, Delhi - 110024",
+    "specialties": [
+      "Advanced Laparoscopic and General Surgery",
+      "Anesthesiology and Pain Management",
+      "Bariatric and Metabolic Surgery",
+      "Cardiology and Interventional Cath Lab (Moolchand Heart Hospital)",
+      "Cosmetic, Plastic and Reconstructive Surgery",
+      "Critical Care Medicine (ICU, CCU, NICU)",
+      "Dental Sciences and Maxillofacial Surgery",
+      "Dermatology, Venereology and Aesthetics",
+      "Endocrinology, Diabetes and Metabolism",
+      "Emergency, Trauma and Ambulance Services (24x7)",
+      "Gastroenterology and Hepatology",
+      "Gastrointestinal Surgery",
+      "Gynecology and Obstetrics (Moolchand Women's Hospital)",
+      "Infertility and IVF Treatment Centre",
+      "Internal Medicine",
+      "Mental Health and Behavioral Sciences (Psychiatry)",
+      "Nephrology and Dialysis Unit",
+      "Neurology and Neurosurgery",
+      "Oncology (Medical, Surgical and Radiation Cancer Care)",
+      "Ophthalmology (Advanced Eye Care)",
+      "Orthopedics, Spine and Joint Replacement Surgery",
+      "Otolaryngology (ENT)",
+      "Pathology and Laboratory Medicine (NABL Accredited)",
+      "Pediatrics and Neonatology",
+      "Physiotherapy and Rehabilitation",
+      "Pulmonology and Respiratory Sleep Medicine",
+      "Radio-Diagnosis and Imaging (3T MRI, Multislice CT)",
+      "Rheumatology",
+      "Transfusion Medicine and Blood Bank",
+      "Urology and Renal Transplantation"
+    ],
+    "room_types": {
+      "general_ward": 3500,
+      "semi_private": 6500,
+      "private": 11500
+    },
+    "key_charges": {
+      "opd_registration": 1200,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_maxmed_09",
+    "name": "Max Medcentre (Lajpat Nagar)",
+    "location": "First Floor, Plot No. 7, Ring Road, Near HDFC Bank, Lajpat Nagar IV, New Delhi, Delhi - 110024",
+    "specialties": [
+      "Internal Medicine",
+      "General Physician Consultation",
+      "Travel Vaccination and Consultation",
+      "Allergy and Immunotherapy Treatment",
+      "Viral and Infectious Diseases Management",
+      "Preventive Health Checkups (PHP)",
+      "Comprehensive Pathology and Lab Diagnostics",
+      "Advanced Radiology (X-Ray, Ultrasound)",
+      "Embassy Authorized Immigration Medicals (USA, UK, Canada, Australia, New Zealand)",
+      "CDC-Approved Sputum and TB Testing Centre",
+      "24x7 Retail Pharmacy",
+      "Ambulance and Air Ambulance Coordination Services"
+    ],
+    "room_types": {
+      "general_ward": 0,
+      "semi_private": 0,
+      "private": 0
+    },
+    "key_charges": {
+      "opd_registration": 1000,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_rml_10",
+    "name": "Dr. Ram Manohar Lohia Hospital (RML / PGIMER)",
+    "location": "Baba Kharak Singh Marg, Near Connaught Place & Central Secretariat, New Delhi, Delhi - 110001",
+    "specialties": [
+      "Anesthesiology and Critical Care",
+      "Burns, Plastic and Maxillofacial Surgery",
+      "Cardiology (Cardio-Thoracic Centre)",
+      "Cardiothoracic and Vascular Surgery (CTVS)",
+      "Dermatology, Venereology and Leprosy",
+      "Dietetics and Nutrition Services",
+      "Emergency Medicine and Trauma Care (24x7 Specialist Setup)",
+      "Endocrinology and Metabolism",
+      "Forensic Medicine and Toxicology",
+      "Gastroenterology and Hepatology",
+      "Gastrointestinal Surgery",
+      "General Medicine (Internal Medicine)",
+      "General Surgery",
+      "Geriatric Medicine",
+      "Hematology",
+      "Microbiology, Pathology and Biochemistry (Lab Medicine)",
+      "Nephrology and Dialysis Units",
+      "Neurology",
+      "Neurosurgery",
+      "Nuclear Medicine",
+      "Obstetrics and Gynecology",
+      "Ophthalmology (Advanced Eye Care Ward)",
+      "Orthopedics and Joint Replacement",
+      "Otolaryngology (ENT)",
+      "Pediatrics and Neonatology (Kalawati Saran & Sucheta Kriplani Linked Networks)",
+      "Pediatric Surgery",
+      "Psychiatry and Mental Health",
+      "Pulmonary Medicine, Critical Care and Sleep Medicine",
+      "Radio-Diagnosis and Imaging (3T MRI, Multislice CT)",
+      "Radiotherapy and Oncology (Cancer Treatment Department)",
+      "Rheumatology",
+      "Transfusion Medicine and Blood Bank Component Facility",
+      "Urology and Renal Transplantation"
+    ],
+    "room_types": {
+      "general_ward": 0,
+      "semi_private": 2000,
+      "private": 3000
+    },
+    "key_charges": {
+      "opd_registration": 0,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_safdarjung_11",
+    "name": "Vardhman Mahavir Medical College & Safdarjung Hospital",
+    "location": "Ansari Nagar East, Ring Road, Opposite AIIMS, New Delhi, Delhi - 110029",
+    "specialties": [
+      "Anaesthesiology, Intensive Care and Pain Management",
+      "Anatomy",
+      "Biochemistry",
+      "Burns and Plastic Surgery (Asia's Largest Dedicated Unit)",
+      "Cardiology and Interventional Cath Lab",
+      "Cardiothoracic and Vascular Surgery (CTVS)",
+      "Clinical Hematology",
+      "Community Medicine",
+      "Dermatology, Venereology and Leprosy",
+      "Dietetics and Nutrition",
+      "Emergency Medicine and Central Trauma Centre (24x7)",
+      "Endocrinology and Metabolism",
+      "Forensic Medicine and Toxicology",
+      "Gastroenterology and Hepatology",
+      "General Medicine (Internal Medicine)",
+      "General Surgery and Laparoscopic Sciences",
+      "Maxillofacial Surgery",
+      "Medical and Surgical Oncology (Cancer Care Block)",
+      "Microbiology and Serology",
+      "Nephrology and Renal Dialysis Unit",
+      "Neurology",
+      "Neurosurgery",
+      "Nuclear Medicine",
+      "Obstetrics and Gynecology",
+      "Ophthalmology (Eye Care Department)",
+      "Orthopedics and Central Institute of Orthopaedics (CIO)",
+      "Otolaryngology (ENT) and Head & Neck Surgery",
+      "Paediatrics and Neonatology",
+      "Paediatric Surgery",
+      "Pathology and Lab Medicine (NABL Accredited)",
+      "Pharmacology",
+      "Physiology",
+      "Psychiatry and Behavioral Sciences",
+      "Pulmonary, Critical Care and Sleep Medicine",
+      "Radiology, Radio-Diagnosis and Advanced Imaging",
+      "Radiotherapy",
+      "Rheumatology",
+      "Sports Injury Centre (North India's Premier SIC Destination)",
+      "Transfusion Medicine and Blood Bank",
+      "Urology and Renal Transplantation"
+    ],
+    "room_types": {
+      "general_ward": 0,
+      "semi_private": 1500,
+      "private": 3000
+    },
+    "key_charges": {
+      "opd_registration": 0,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_escorts_12",
+    "name": "Fortis Escorts Heart Institute & Research Centre",
+    "location": "Okhla Road, Opposite Holy Family Hospital, Okhla, New Delhi, Delhi - 110025",
+    "specialties": [
+      "Interventional Cardiology",
+      "Cardiothoracic and Vascular Surgery (CTVS)",
+      "Paediatric Cardiology and Congenital Heart Surgery",
+      "Electrophysiology and Pacing",
+      "Heart Transplant and Ventricular Assist Devices (LVAD)",
+      "Minimally Invasive Cardiac Surgery (MICS)",
+      "Critical Care Medicine (Cardiac ICU & CCU)",
+      "Vascular and Endovascular Surgery",
+      "Pulmonology, Critical Care and Sleep Medicine",
+      "Internal Medicine and Metabolic Diseases",
+      "Advanced Radiology and Cardiac Imaging",
+      "Emergency Medical Services and Cardiac Trauma (24x7)",
+      "Pathology and Transfusion Medicine (Blood Bank Component Facility)",
+      "Physiotherapy and Cardiac Rehabilitation Centre"
+    ],
+    "room_types": {
+      "general_ward": 6000,
+      "semi_private": 8500,
+      "private": 13000
+    },
+    "key_charges": {
+      "opd_registration": 1500,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_gbpant_13",
+    "name": "Govind Ballabh Pant Institute of Postgraduate Medical Education and Research (GIPMER)",
+    "location": "1, Jawaharlal Nehru Marg, Near Delhi Gate Metro Station, Asaf Ali Road, New Delhi, Delhi - 110002",
+    "specialties": [
+      "Cardiology (Advanced Cardiac Cath Lab & Coronary Care)",
+      "Cardiothoracic and Vascular Surgery (CTVS)",
+      "Neurology (Stroke & Epilepsy Specialization)",
+      "Neurosurgery (Spine and Brain Tumour Centre)",
+      "Gastroenterology and Hepatology",
+      "Gastrointestinal Surgery and Liver Transplantation",
+      "Psychiatry and Behavioral Sciences",
+      "Biochemistry",
+      "Microbiology",
+      "Pathology and Surgical Histopathology",
+      "Radio-Diagnosis, CT and Neuro-Imaging",
+      "Blood Bank and Transfusion Medicine Component Facility"
+    ],
+    "room_types": {
+      "general_ward": 0,
+      "semi_private": 1500,
+      "private": 2500
+    },
+    "key_charges": {
+      "opd_registration": 0,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_apollo_14",
+    "name": "Indraprastha Apollo Hospital",
+    "location": "Delhi-Mathura Road, Near Sarita Vihar Metro Station, Sarita Vihar, New Delhi, Delhi - 110076",
+    "specialties": [
+      "Cardiology and Cardiothoracic Surgery (CTVS)",
+      "Neurology and Neurosurgery",
+      "Organ Transplants (Liver, Kidney, Heart, Cornea)",
+      "Oncology (Medical, Surgical and Radiation - Apollo Cancer Centre)",
+      "Orthopedics, Spine and Joint Replacement",
+      "Gastroenterology, Hepatology and GI Surgery",
+      "Nephrology and Advanced Dialysis",
+      "Urology and Robotics-Assisted Surgery",
+      "Pediatrics and Neonatology (Apollo Children's)",
+      "Obstetrics and Gynecology",
+      "Critical Care Medicine (ICU, CCU, NICU, PICU)",
+      "Emergency, Trauma and Acute Care (24x7)",
+      "Pulmonology, Critical Care and Sleep Medicine",
+      "Endocrinology, Diabetes and Metabolism",
+      "Internal Medicine and Infectious Diseases",
+      "Bariatric and Metabolic Surgery",
+      "Plastic, Cosmetic and Reconstructive Surgery",
+      "Ophthalmology and Refractive Surgery",
+      "Otolaryngology (ENT) and Head & Neck Surgery",
+      "Dermatology and Cosmetology",
+      "Psychiatry and Behavioral Sciences",
+      "Radio-Diagnosis and Interventional Radiology",
+      "Pathology, Microbiology and Laboratory Medicine",
+      "Transfusion Medicine and Blood Bank Component Facility",
+      "Rheumatology",
+      "Physiotherapy and Rehabilitation Medicine"
+    ],
+    "room_types": {
+      "general_ward": 5500,
+      "semi_private": 8000,
+      "private": 14000
+    },
+    "key_charges": {
+      "opd_registration": 1500,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_iph_15",
+    "name": "Pt. Deendayal Upadhyaya National Institute for Persons with Physical Disabilities (PDUNIPPD)",
+    "location": "4, Vishnu Digamber Marg, Near Rouse Avenue Court & ITO, New Delhi, Delhi - 110002",
+    "specialties": [
+      "Physiotherapy (Physical Therapy - BPT/MPT Programs)",
+      "Occupational Therapy (BOT/MOT Programs)",
+      "Prosthetics and Orthotics (BPO - Artificial Limbs & Braces Fabrication)",
+      "Physical Medicine and Rehabilitation (PMR Clinic)",
+      "Orthopedic Specialist Consultation Services",
+      "Cross-Disability Early Intervention Centre (For Children with Special Needs)",
+      "Sensory Integration and Behavioral Therapy",
+      "Speech and Audiology Assessment",
+      "Locomotor Disability Assessment & Disability Certificate Guidance",
+      "Social Work and Vocational Rehabilitation Counseling Services"
+    ],
+    "room_types": {
+      "general_ward": 0,
+      "semi_private": 0,
+      "private": 0
+    },
+    "key_charges": {
+      "opd_registration": 20,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_stephens_16",
+    "name": "St. Stephen's Hospital",
+    "location": "St. Stephen's Hospital Marg, Near Tis Hazari Metro Station, Railway Colony, Tis Hazari, Delhi - 110054",
+    "specialties": [
+      "General Medicine (Internal Medicine)",
+      "General Surgery and Laparoscopic Sciences",
+      "Orthopedics, Joint Replacement and Polio Rehabilitation",
+      "Cardiology and Interventional Cath Lab",
+      "Cardiothoracic and Vascular Surgery (CTVS)",
+      "Neurology and Neurosurgery",
+      "Obstetrics and Gynecology (Indira Gandhi Maternity Legacy Wards)",
+      "Paediatrics and Neonatology (Dr. Lucy Oommen Mother & Child Block)",
+      "Paediatric Surgery",
+      "Oncology (Medical, Surgical and Cancer Screening)",
+      "Urology and Renal Transplantation",
+      "Nephrology and Hemodialysis Unit",
+      "Ophthalmology (Advanced Eye Care and Squint Center)",
+      "Otolaryngology (ENT) and Head & Neck Surgery",
+      "Dermatology and Venereology",
+      "Psychiatry, Psychology and De-addiction Clinics",
+      "Emergency Medicine and Trauma Casualty (24x7)",
+      "Anesthesiology, Pain Management and Critical Care",
+      "Physical Medicine, Physiotherapy and Rehabilitation",
+      "Pathology, Microbiology and Biochemistry (Lab Diagnostics)",
+      "Radio-Diagnosis and Advanced Imaging (CT, MRI, Ultrasound)",
+      "Transfusion Medicine and Blood Bank Component Facility",
+      "Dental Surgery and Oral Health"
+    ],
+    "room_types": {
+      "general_ward": 1200,
+      "semi_private": 3200,
+      "private": 5500
+    },
+    "key_charges": {
+      "opd_registration": 300,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_parmanand_17",
+    "name": "Sant Parmanand Hospital",
+    "location": "18, Sham Nath Marg, Near Civil Lines Metro Station, Civil Lines, New Delhi, Delhi - 110054",
+    "specialties": [
+      "Orthopedics and Joint Replacement Surgery (Knee & Hip Specialist Hub)",
+      "Delhi Institute of Trauma & Orthopedics (DITO)",
+      "Sports Medicine and Arthroscopy",
+      "Spine Surgery",
+      "Ophthalmology (Advanced Eye-Care & Charitable Blind Relief Mission Legacy)",
+      "High-Risk Obstetrics, Gynecology and Birthing Centre",
+      "General Medicine (Internal Medicine)",
+      "General and Advanced Laparoscopic Surgery",
+      "Gastroenterology and GI Surgery",
+      "Neurology and Neurosurgery",
+      "Urology and Infertility Clinics",
+      "Pediatrics and Neonatology",
+      "Dermatology and Venereology",
+      "Otolaryngology (ENT)",
+      "Psychiatry and Mental Health",
+      "Dentistry and Oral Surgery",
+      "Critical Care Medicine and ICU (24x7)",
+      "Emergency and Trauma Care Services",
+      "Pain Management Centre and Bone Bank",
+      "Radio-Diagnosis and Imaging (CT, Ultrasound, Digital X-Ray)",
+      "Pathology, Microbiology and Laboratory Medicine (NABL Accredited)",
+      "Transfusion Medicine and Blood Bank Component Facility",
+      "Physiotherapy and Rehabilitation"
+    ],
+    "room_types": {
+      "general_ward": 1500,
+      "semi_private": 3500,
+      "private": 6500
+    },
+    "key_charges": {
+      "opd_registration": 500,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_blkmax_18",
+    "name": "BLK-Max Super Speciality Hospital (Dr. B.L. Kapur Memorial)",
+    "location": "Pusa Road, Radha Soami Satsang, Rajendra Place, New Delhi, Delhi - 110005",
+    "specialties": [
+      "Bone Marrow Transplant (Asia's Largest BMT Hub)",
+      "BLK-Max Cancer Centre (Medical, Surgical & Radiation Oncology)",
+      "Centre for Bone and Joint Replacement (Orthopedics)",
+      "Cardiology and Cardiothoracic Vascular Surgery (CTVS Centre)",
+      "Neurology and Neurosurgery (Neurosciences Department)",
+      "Liver and Kidney Organ Transplantation Centre",
+      "Gastroenterology, Hepatology and GI Surgery",
+      "Urology and Robotics-Assisted Surgery",
+      "Plastic, Cosmetic and Reconstructive Surgery",
+      "Obstetrics and Gynecology",
+      "Pediatrics and Neonatology (NICU/PICU)",
+      "Bariatric and Advanced Laparoscopic Surgery",
+      "Pulmonology, Critical Care and Sleep Medicine",
+      "Nephrology and Advanced Renal Dialysis Unit",
+      "Internal Medicine and Metabolic Disorders",
+      "Dermatology, Venereology and Aesthetics",
+      "Ophthalmology and Advanced Eye Care",
+      "Otolaryngology (ENT) and Head & Neck Surgery",
+      "Psychiatry and Behavioral Sciences",
+      "Radio-Diagnosis, 3T MRI and Interventional Radiology",
+      "Pathology, Microbiology and Laboratory Medicine (NABL)",
+      "Transfusion Medicine and Blood Bank Component Facility",
+      "Emergency, Trauma and 24x7 Ambulance Services"
+    ],
+    "room_types": {
+      "general_ward": 6000,
+      "semi_private": 8500,
+      "private": 13500
+    },
+    "key_charges": {
+      "opd_registration": 1500,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_sucheta_19",
+    "name": "Smt. Sucheta Kriplani Hospital (Lady Hardinge Medical College)",
+    "location": "Panchkuian Road, Near Connaught Place & Shivaji Stadium Metro Station, New Delhi, Delhi - 110001",
+    "specialties": [
+      "Obstetrics and Gynecology (North India's High-Risk Birthing Hub)",
+      "Paediatrics and Neonatology (Linked with Kalawati Saran Children's Hospital)",
+      "General Medicine (Internal Medicine)",
+      "General Surgery and Laparoscopic Sciences",
+      "Orthopedics and Trauma Care",
+      "Ophthalmology (Eye Department)",
+      "Otolaryngology (ENT) and Head & Neck Surgery",
+      "Dermatology, Venereology and Leprosy",
+      "Psychiatry and Behavioral Sciences",
+      "Anesthesiology, Pain Medicine and Critical Care",
+      "Radio-Diagnosis and Advanced Imaging (X-Ray, Ultrasound, CT, MRI)",
+      "Pathology, Microbiology and Medical Biochemistry (Lab Medicine)",
+      "Transfusion Medicine and Blood Bank Component Facility",
+      "Dental Surgery"
+    ],
+    "room_types": {
+      "general_ward": 0,
+      "semi_private": 1000,
+      "private": 2000
+    },
+    "key_charges": {
+      "opd_registration": 0,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_ictcaids_20",
+    "name": "Integrated Counseling and Testing Centre (ICTC - NACO Netwrok)",
+    "location": "Available across Flagship Government Hubs (AIIMS, Safdarjung, RML, and LNJP Complexes), New Delhi, Delhi",
+    "specialties": [
+      "Confidential Pre-Test Counseling",
+      "Confidential Post-Test Counseling",
+      "Free Rapid HIV Screening (Blood Diagnostics)",
+      "Elisa Testing Coordination",
+      "CD4 Cell Count Monitoring",
+      "Antiretroviral Therapy (ART Center Linkage for Free Lifetime HIV Drugs)",
+      "PEP (Post-Exposure Prophylaxis Counseling and Immediate 72-Hour Kit Execution)",
+      "Prevention of Parent-to-Child Transmission (PPTCT) Services",
+      "HIV-TB Co-infection Screening and DOTS Center Management Linkage",
+      "STI (Sexually Transmitted Infections) Syndromic Management"
+    ],
+    "room_types": {
+      "general_ward": 0,
+      "semi_private": 0,
+      "private": 0
+    },
+    "key_charges": {
+      "opd_registration": 0,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_natchest_21",
+    "name": "National Chest Institute (RGCIRC South Delhi Campus)",
+    "location": "Opposite A-133, Gautam Nagar, Near Niti Bagh, New Delhi, Delhi - 110049",
+    "specialties": [
+      "Pulmonology and Respiratory Medicine",
+      "Asthma, Allergy and Immunotherapy Clinics",
+      "Interventional Cardiology and Vascular Profiling",
+      "Medical Oncology (RGCIRC Daycare Chemotherapy Setup)",
+      "Surgical Oncology Consultations",
+      "Cancer Screening and Early Detection Clinics",
+      "Critical Care Medicine and Short-Stay ICU",
+      "Advanced Pulmonology Function Testing (PFT Lab)",
+      "Sleep Medicine and Sleep Apnea Studies",
+      "General Internal Medicine",
+      "Advanced Imaging and Digital X-Ray Diagnostic Center",
+      "Comprehensive Pathology and Lab Medicine",
+      "In-house 24x7 Retail Pharmacy Services"
+    ],
+    "room_types": {
+      "general_ward": 3500,
+      "semi_private": 5500,
+      "private": 9000
+    },
+    "key_charges": {
+      "opd_registration": 800,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_rgcirc_22",
+    "name": "Rajiv Gandhi Cancer Institute & Research Centre (RGCIRC)",
+    "location": "Sir Chotu Ram Marg, Rohini Institutional Area, Sector 5, Rohini, New Delhi, Delhi - 110085",
+    "specialties": [
+      "Surgical Oncology (Breast, Thoracic, GI, Head & Neck, and GU Tracks)",
+      "Medical Oncology (Solid Tumors Management and Targeted Therapies)",
+      "Radiation Oncology (TrueBeam, IMRT, IGRT, and CyberKnife Robotics)",
+      "Pediatric Hematology and Oncology (Dedicated Children Cancer Care Unit)",
+      "Bone Marrow Transplant (BMT Unit for Leukemia and Lymphoma)",
+      "Gynecologic Oncology and Specialized Brachytherapy",
+      "Gastrointestinal and Hepatopancreatobiliary (HPB) Oncology",
+      "Genitourinary and Urological Oncology",
+      "Neuro-Oncology (Brain and Spine Tumour Management)",
+      "Musculoskeletal Oncology (Bone and Soft Tissue Sarcomas Unit)",
+      "Onco-Pathology, Microbiology and Molecular Diagnostics (NABL Lab)",
+      "Advanced Radio-Diagnosis and Nuclear Medicine (PET-CT, PET-MRI Fusion)",
+      "Interventional Radiology and Tumor Ablation Services",
+      "Palliative and Supportive Care (Cancer Pain Management Clinic)",
+      "Cancer Screening and Preventive Oncology Units",
+      "Transfusion Medicine and Blood Bank Component Facility (NABH Accredited)"
+    ],
+    "room_types": {
+      "general_ward": 3000,
+      "semi_private": 5500,
+      "private": 11000
+    },
+    "key_charges": {
+      "opd_registration": 1800,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_iph_15",
+    "name": "Pt. Deendayal Upadhyaya National Institute for Persons with Physical Disabilities (PDUNIPPD)",
+    "location": "4, Vishnu Digamber Marg, Near Rouse Avenue Court & ITO, New Delhi, Delhi - 110002",
+    "specialties": [
+      "Physiotherapy (Physical Therapy - BPT/MPT Programs)",
+      "Occupational Therapy (BOT/MOT Programs)",
+      "Prosthetics and Orthotics (BPO - Artificial Limbs & Braces Fabrication)",
+      "Physical Medicine and Rehabilitation (PMR Clinic)",
+      "Orthopedic Specialist Consultation Services",
+      "Cross-Disability Early Intervention Centre (For Children with Special Needs)",
+      "Sensory Integration and Behavioral Therapy",
+      "Speech and Audiology Assessment",
+      "Locomotor Disability Assessment & Disability Certificate Guidance",
+      "Social Work and Vocational Rehabilitation Counseling Services"
+    ],
+    "room_types": {
+      "general_ward": 0,
+      "semi_private": 0,
+      "private": 0
+    },
+    "key_charges": {
+      "opd_registration": 20,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_sljain_23",
+    "name": "Sunder Lal Jain Hospital (Nayati Sunderlal Jain - Currently Closed)",
+    "location": "B-1/5, Phase 3, Near Sawan Park, Ashok Vihar, New Delhi, Delhi - 110052",
+    "specialties": [
+      "Obstetrics and Gynecology (Maternity Care History)",
+      "General Medicine (Internal Medicine)",
+      "Pulmonology and Chest Medicine",
+      "General Surgery and Laparoscopic Consultations",
+      "Interventional Cardiology and Cath Lab Setup",
+      "Pediatrics and Neonatology",
+      "Orthopedics and Trauma Care",
+      "Ophthalmology (Eye Surgeon Unit)",
+      "Physiotherapy and Physical Rehabilitation",
+      "Emergency Medicine and Daycare Observation (24x7 Core Block)",
+      "Advanced Radiology and Radio-Diagnosis",
+      "Pathology, Biochemistry and Microbiology (Lab Diagnostics)"
+    ],
+    "room_types": {
+      "general_ward": 2000,
+      "semi_private": 4000,
+      "private": 5000
+    },
+    "key_charges": {
+      "opd_registration": 650,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_gtb_24",
+    "name": "Guru Teg Bahadur Hospital (UCMS)",
+    "location": "Taharpur Road, Dilshad Garden, Shahdara, New Delhi, Delhi - 110095",
+    "specialties": [
+      "General Medicine (Internal Medicine)",
+      "General Surgery and Advanced Laparoscopic Sciences",
+      "Orthopedics and Central Trauma Centre (24x7 Emergency)",
+      "Obstetrics and Gynecology (Maternity Care Wing)",
+      "Pediatrics and Neonatology (NICU/PICU Hub)",
+      "Dermatology, Venereology and Leprosy",
+      "Ophthalmology (Advanced Eye Care Ward)",
+      "Otolaryngology (ENT) and Head & Neck Surgery",
+      "Psychiatry and Behavioral Sciences",
+      "Anesthesiology, Pain Medicine and Critical Care",
+      "Radio-Diagnosis and Modern Imaging (X-Ray, Ultrasound, CT, MRI)",
+      "Pathology, Microbiology and Medical Biochemistry (Lab Medicine)",
+      "Forensic Medicine and Toxicology",
+      "Community Medicine",
+      "Transfusion Medicine and Blood Bank Component Facility",
+      "Dental Surgery and Oral Health Services"
+    ],
+    "room_types": {
+      "general_ward": 0,
+      "semi_private": 0,
+      "private": 0
+    },
+    "key_charges": {
+      "opd_registration": 0,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_modismart_25",
+    "name": "Max Smart Super Speciality Hospital (Unit of Gujarmal Modi Hospital & Research Centre)",
+    "location": "Press Enclave Marg, Saket District Centre, Sector 1, Saket, New Delhi, Delhi - 110017",
+    "specialties": [
+      "Cardiac Sciences (Advanced Cath Lab & Interventional Cardiology)",
+      "Orthopedics and Joint Replacement Surgery",
+      "Urology and Robotics-Assisted Uro-Oncology Surgery",
+      "Kidney and Renal Transplantation Services",
+      "Neurology and Neurosurgery (Advanced Neurosciences)",
+      "Obstetrics and Gynecology (Comprehensive Maternal-Child Care)",
+      "Pediatrics and Neonatology (NICU & PICU Infrastructure)",
+      "Bariatric and Metabolic Surgery",
+      "Advanced Gastroenterology and Hepatology",
+      "General and Minimal Access Laparoscopic Surgery",
+      "Onco Day Care Unit (Specialized Chemotherapy Setup)",
+      "Emergency Resuscitation and 24x7 Trauma Observation Unit",
+      "Pulmonology and Critical Care Sleep Medicine",
+      "Dermatology, Venereology and Aesthetics",
+      "Internal Medicine and Metabolic Disorders",
+      "Radio-Diagnosis and Advanced Neuro-Imaging (3T MRI, 256-Slice CT Angio)",
+      "Pathology, Microbiology and Molecular Diagnostics (NABL Accredited Lab)",
+      "Transfusion Medicine and Blood Bank Component Facility"
+    ],
+    "room_types": {
+      "general_ward": 6500,
+      "semi_private": 9000,
+      "private": 14000
+    },
+    "key_charges": {
+      "opd_registration": 1500,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_hjain_26",
+    "name": "Hemraj Jain Hospital and Maternity Home",
+    "location": "Nursing Home No. 1, Block C1, Near MDH School, Janakpuri, New Delhi, Delhi - 110058",
+    "specialties": [
+      "Gynecology and Obstetrics (Comprehensive Maternity Care)",
+      "General Surgery and Minimal Access Laparoscopic Surgery",
+      "Gall Bladder, Hernia, and Appendix Surgical Unit",
+      "Pediatrics and Neonatology (Child Care Assessment)",
+      "Orthopedic Surgery and Joint Trauma Management",
+      "Cardiology Consultations",
+      "Ophthalmology (Advanced Eye Care)",
+      "Otolaryngology (ENT Specialized Clinic)",
+      "Urology and Nephrology Services",
+      "Clinical Hematology and Blood Profiles",
+      "Psychiatry and Behavioral Sciences",
+      "Anesthesiology and Acute Care",
+      "Radio-Diagnosis and Medical Imaging (Ultrasound & X-Ray)",
+      "Pathology, Microbiology and Laboratory Medicine"
+    ],
+    "room_types": {
+      "general_ward": 2000,
+      "semi_private": 3500,
+      "private": 6000
+    },
+    "key_charges": {
+      "opd_registration": 500,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_hanscharitable_27",
+    "name": "Hans Charitable Hospital",
+    "location": "2001-2, Banda Bahadur Marg, Outram Lines, near Mukherjee Nagar Police Station, GTB Nagar, Kingsway Camp, Delhi - 110009",
+    "specialties": [
+      "Gynecology and Obstetrics (Usha Gynecare Wards - Dr. Asha Hans)",
+      "Orthopedics and Joint Trauma Management (Dr. Jatin Hans)",
+      "General Medicine (Internal Medicine)",
+      "General and Minimal Access Laparoscopic Surgery",
+      "Ophthalmology and Advanced Eye Care",
+      "Dental Care and Oral Maxillofacial Surgery",
+      "Otolaryngology (ENT Specialized Clinic)",
+      "Pediatrics and Neonatal Observation",
+      "Infertility and Reproductive Specialist Services",
+      "Dietetics and Clinical Nutrition Services",
+      "Emergency Medicine and Daycare Ward (24x7 Core Block)",
+      "Advanced Radiology and Radio-Diagnosis (Ultrasound & X-Ray)",
+      "Pathology and Medical Diagnostics Lab",
+      "In-house 24x7 Retail Pharmacy Services"
+    ],
+    "room_types": {
+      "general_ward": 1500,
+      "semi_private": 3000,
+      "private": 4500
+    },
+    "key_charges": {
+      "opd_registration": 100,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_healingtouch_28a",
+    "name": "Healing Touch Hospital",
+    "location": "7/5, Block 7, Sarvapriya Vihar, Near Hauz Khas Metro Station, New Delhi, Delhi - 110016",
+    "specialties": [
+      "General Medicine (Internal Medicine)",
+      "Pediatrics and Neonatology (Child Care Experts)",
+      "Obstetrics and Gynecology (Maternity Ward Structure)",
+      "General and Minimal Access Surgery",
+      "Orthopedics and Joint Management",
+      "Pneumonia and Specialized Respiratory Care",
+      "Emergency Care and Daycare Observation Units",
+      "Basic Radio-Diagnosis and Diagnostics Lab Medicine"
+    ],
+    "room_types": {
+      "general_ward": 4000,
+      "semi_private": 6500,
+      "private": 9500
+    },
+    "key_charges": {
+      "opd_registration": 800,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_holyangels_29",
+    "name": "Holy Angels Hospital",
+    "location": "Plot B, Community Center, Basant Lok, Near Vasant Vihar Metro Station, Behind Jaypee Continental Hotel, New Delhi, Delhi - 110057",
+    "specialties": [
+      "Internal Medicine and Therapeutics",
+      "General Surgery and Minimal Access Laparoscopy",
+      "Gynecology and Obstetrics (Maternal Health Core Block)",
+      "Infertility and Reproductive Specialist Consultation",
+      "Pediatrics and Neonatology (Child Care Specialists)",
+      "Orthopedics, Spine and Joint Trauma Management",
+      "Urology and Endourological Procedures",
+      "Dermatology and Venereology",
+      "Ophthalmology (Advanced Eye Care and Daycare Surgeries)",
+      "Otolaryngology (ENT Specialized Unit)",
+      "Comprehensive Dentistry and Dental Implantology Centre",
+      "Physiotherapy and Physical Rehabilitation Program",
+      "Emergency Care, Acute Resuscitation and Daycare Observation (24x7)",
+      "Advanced Radiology and Radio-Diagnosis (Ultrasound & X-Ray Lab)",
+      "Pathology, Microbiology and Laboratory Medicine"
+    ],
+    "room_types": {
+      "general_ward": 3000,
+      "semi_private": 5000,
+      "private": 8500
+    },
+    "key_charges": {
+      "opd_registration": 600,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_holyfamily_30",
+    "name": "Holy Family Hospital",
+    "location": "Okhla Road, Near Jamia Millia Islamia, Sukhdev Vihar, Okhla, New Delhi, Delhi - 110025",
+    "specialties": [
+      "Internal Medicine and Infectious Disease Unit",
+      "General Surgery and Minimal Access Laparoscopic Surgery",
+      "Obstetrics and Gynecology (Renowned Maternity and Normal Delivery Hub)",
+      "Paediatrics and Neonatology (NICU Facility)",
+      "Orthopedics, Spine and Joint Replacement Surgery",
+      "Cardiology (Accredited DrNB Super Speciality Cath Lab Centre)",
+      "Critical Care Medicine (Accredited DrNB Super Speciality ICU Grid)",
+      "Nephrology and Hemodialysis Unit",
+      "Neurology and Stroke Management",
+      "Urology and Endourological Procedures",
+      "Ophthalmology (Advanced Eye Care)",
+      "Otolaryngology (ENT Specialized Block)",
+      "Dermatology and Venereology",
+      "Psychiatry and Behavioral Sciences",
+      "Dental Surgery and Oral Health Center",
+      "Physiotherapy, Occupational Therapy and Rehabilitation",
+      "Advanced Radio-Diagnosis and Imaging (Multislice CT, Ultrasound, X-Ray)",
+      "Pathology, Microbiology and Clinical Biochemistry (In-house Lab Diagnostics)",
+      "Blood Bank and Transfusion Medicine (24x7 Component Facility)",
+      "Emergency Medicine and Acute Trauma Department (30-Bed 24x7 Support)"
+    ],
+    "room_types": {
+      "general_ward": 1400,
+      "semi_private": 3200,
+      "private": 5500
+    },
+    "key_charges": {
+      "opd_registration": 100,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_zedhospital_31",
+    "name": "Zed Hospital Limited (Company Status: Strike Off)",
+    "location": "B-1601, Shastri Nagar, Near Shastri Booth, New Delhi, Delhi - 110052",
+    "specialties": [
+      "General Medicine (Historical Archive)",
+      "General Hospital Activities (Non-Operational)"
+    ],
+    "room_types": {
+      "general_ward": 0,
+      "semi_private": 0,
+      "private": 0
+    },
+    "key_charges": {
+      "opd_registration": 0,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_virmani_32",
+    "name": "Virmani Hospital",
+    "location": "Plot No. 8, 9 & 10, Block B, L.S.C. DDA Commercial Complex, Near National Highway 24, Mayur Vihar Phase 2, New Delhi, Delhi - 110091",
+    "specialties": [
+      "Pediatrics and Neonatology (Child Care Hub - Dr. Harish & Dr. Sahil Virmani)",
+      "Gynecology and Obstetrics (High-Risk Pregnancy & Infertility Wards)",
+      "General Medicine (Internal Medicine)",
+      "General and Advanced Minimal Access Laparoscopic Surgery",
+      "Orthopedics and Joint Trauma Management",
+      "Ophthalmology (Advanced Eye Care Clinic)",
+      "Otolaryngology (ENT Specialized Surgery)",
+      "Dermatology, Cosmetology and Venereology",
+      "Comprehensive Dentistry and Oral Surgery",
+      "Physiotherapy and Physical Rehabilitation Medicine",
+      "Critical Care Medicine (ICU with Ventilator Support)",
+      "Advanced Emergency Resuscitation and Modern Labor Room (24x7)",
+      "Computerized Diagnostics Laboratory (Auto Analyzers Setup)",
+      "Digital X-Ray and Ultrasound Imaging Centre"
+    ],
+    "room_types": {
+      "general_ward": 1500,
+      "semi_private": 3000,
+      "private": 4500
+    },
+    "key_charges": {
+      "opd_registration": 400,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_vimhans_33",
+    "name": "Vimhans Nayati Super Speciality Hospital",
+    "location": "1, Institutional Area, Near Nehru Nagar Flyover, Ring Road, Lajpat Nagar IV, New Delhi, Delhi - 110024",
+    "specialties": [
+      "Psychiatry and Mental Health Sciences (De-addiction & Child Guidance)",
+      "Neurology and Stroke Management",
+      "Neurosurgery (Spine and Brain Tumour Centre)",
+      "Physical Medicine and Interdisciplinary Rehabilitation (Neuro-Rehab Hub)",
+      "Orthopedics and Joint Replacement Surgery",
+      "General Medicine (Internal Medicine)",
+      "General and Advanced Laparoscopic Surgery",
+      "Cardiology Consultations",
+      "Pulmonology and Respiratory Sleep Medicine",
+      "Critical Care Medicine (ICU, Neuro-ICU & Trauma Ward Setup)",
+      "Clinical Psychology and Psychotherapy (Family & Marital Counseling)",
+      "Speech and Audiology Therapy",
+      "Advanced Neuro-Imaging, 3T MRI and Radio-Diagnosis",
+      "Pathology, Microbiology and Laboratory Medicine"
+    ],
+    "room_types": {
+      "general_ward": 4000,
+      "semi_private": 7000,
+      "private": 11500
+    },
+    "key_charges": {
+      "opd_registration": 1200,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_veeranwaliprimus_34",
+    "name": "Primus Super Speciality Hospital (Formerly Veeranwali International Hospital)",
+    "location": "2, Chandragupta Marg, Opposite Russian Embassy, Chanakyapuri, New Delhi, Delhi - 110021",
+    "specialties": [
+      "Orthopedics, Joint Replacement and Complex Trauma Management",
+      "Spine Surgery and Advanced Neuro-Spine Procedures",
+      "Cardiology and Interventional Cath Lab Services",
+      "Cardiothoracic and Vascular Surgery (CTVS)",
+      "Neurology and Neurosurgery Sciences",
+      "Nephrology, Hemodialysis and Renal Transplantations",
+      "Urology and Minimally Invasive Endourology",
+      "Gastroenterology, Hepatology and GI Surgery",
+      "General and Advanced Laparoscopic Surgery",
+      "Obstetrics and Gynecology (Comprehensive Maternal Health Block)",
+      "Pediatrics and Neonatology (NICU/PICU Facilities)",
+      "Ophthalmology and Otolaryngology (ENT Support Services)",
+      "Pulmonary, Sleep and Critical Care Medicine",
+      "Plastic, Aesthetic and Reconstructive Surgery",
+      "Internal Medicine and Infectious Diseases Control",
+      "Emergency Medicine and Multi-Bed Trauma Resuscitation (24x7)",
+      "Advanced Radio-Diagnosis and Imaging (CT, MRI, Digital X-Ray)",
+      "NABL Accredited Pathology and Laboratory Medicine"
+    ],
+    "room_types": {
+      "general_ward": 5500,
+      "semi_private": 8500,
+      "private": 13500
+    },
+    "key_charges": {
+      "opd_registration": 1500,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_vasantlok_35",
+    "name": "Vasant Lok Hospital (Holy Angels Complex)",
+    "location": "Plot B, Community Center, Basant Lok, Near Vasant Vihar Metro Station, Behind PVR Priya Cinema, New Delhi, Delhi - 110057",
+    "specialties": [
+      "Internal Medicine and Therapeutics",
+      "General Surgery and Minimal Access Laparoscopy",
+      "Grommet Insertion and Myringotomy (ENT Track)",
+      "Pediatric Surgical Consultation and Neonatology",
+      "Obstetrics and Gynecology (Maternity Ward Services)",
+      "Ophthalmology and Advanced Contact Lens Prescription",
+      "Orthopedics and Joint Trauma Management",
+      "Urology Consultations",
+      "Emergency Care, Daycare Observation, and Acute Resuscitation (24x7)",
+      "Basic Radiology, Ultrasound and Digital X-Ray Imaging",
+      "Comprehensive Pathology and Lab Diagnostics"
+    ],
+    "room_types": {
+      "general_ward": 3000,
+      "semi_private": 5000,
+      "private": 8500
+    },
+    "key_charges": {
+      "opd_registration": 600,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_tirathram_36",
+    "name": "Tirath Ram Shah Hospital (TRSCH)",
+    "location": "2A, R.B.L. Isher Das Sawhney Marg, Battery Lane, Rajpur Road, Civil Lines, New Delhi, Delhi - 110054",
+    "specialties": [
+      "General Medicine (Internal Medicine)",
+      "General Surgery and Laparoscopic Hernia Surgery",
+      "Gynecology and Obstetrics (Comprehensive Maternity Care)",
+      "Pediatrics and Neonatology (Special Child & Adult Care)",
+      "Orthopedics and Joint Trauma Management",
+      "Cardiology and Interventional Cath Lab Services",
+      "Neurology and Neurosurgery Sciences",
+      "Nephrology, Urology and Dialysis Services",
+      "Ophthalmology (Advanced Cataract Extraction & Retina Treatment)",
+      "Otolaryngology (ENT Specialized Surgery & Mastoidectomy)",
+      "Dermatology and Venereology",
+      "Psychiatry and Behavioral Sciences",
+      "Critical Care Medicine (Advanced ICU & CCU Grid)",
+      "Emergency Medicine and Acute Trauma Support (24x7)",
+      "Advanced Radio-Diagnosis and Imaging (USG-Guided Procedures, CT Scan)",
+      "Pathology, Microbiology and Clinical Biochemistry Lab (NABL)",
+      "Physiotherapy and Occupational Therapy"
+    ],
+    "room_types": {
+      "general_ward": 1500,
+      "semi_private": 3500,
+      "private": 6000
+    },
+    "key_charges": {
+      "opd_registration": 350,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_thapar_37",
+    "name": "Thapar Hospital (Kamlesh Medical Centre)",
+    "location": "423, Nangloi Saiyed Road, Bhera Enclave, Paschim Vihar, New Delhi, Delhi - 110087",
+    "specialties": [
+      "General Medicine and Internal Therapeutics",
+      "Cardiology (Cardiac Ablation, Cardioversion & Pacemaker Implantation)",
+      "Obstetrics and Gynecology (Comprehensive Pregnancy Care & PCOS Management)",
+      "Pediatrics and Neonatal Development Assessment",
+      "Infectious Diseases and Respiratory Tract Infection Management",
+      "Gastrointestinal and Metabolic Disorders Clinic",
+      "Urology and Infertility Counseling Services",
+      "Emergency Care, Casualty Observation, and Critical First Aid (24x7)",
+      "Comprehensive Radiology & Ultrasound Diagnostics (Kamlesh Diagnostics)",
+      "Pathology, Microbiology and Laboratory Medicine"
+    ],
+    "room_types": {
+      "general_ward": 2000,
+      "semi_private": 4000,
+      "private": 6500
+    },
+    "key_charges": {
+      "opd_registration": 500,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_southpoint_38",
+    "name": "South Point Hospital",
+    "location": "G-48, Ground Floor, Masjid Moth, Greater Kailash I, Near Savitri Cinema, New Delhi, Delhi - 110048",
+    "specialties": [
+      "Psychiatry (Adult & Geriatric Mental Health Care)",
+      "Clinical Psychology and Psychotherapy Panels",
+      "De-addiction and Substance Abuse Rehabilitation",
+      "Child and Adolescent Guidance Counseling",
+      "Stress Management and Cognitive Behavioral Therapy (CBT)",
+      "Depression, Anxiety, and Mood Disorders Treatment",
+      "Sleep Disorders and Insomnia Therapies",
+      "Family and Marital Counseling Services",
+      "Neuropsychiatric Evaluation and Daycare Observation"
+    ],
+    "room_types": {
+      "general_ward": 3500,
+      "semi_private": 5500,
+      "private": 8500
+    },
+    "key_charges": {
+      "opd_registration": 1000,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_jeevananmol_39",
+    "name": "Jeevan Anmol Hospital (Run by Sondhi Charitable Hospital Society)",
+    "location": "Patparganj Road, Pocket 4, Opposite Pratap Nagar, Near Transport Authority, Mayur Vihar Phase 1, New Delhi, Delhi - 110091",
+    "specialties": [
+      "General Medicine (Internal Medicine)",
+      "General and Advanced Minimal Access Laparoscopic Surgery",
+      "Obstetrics and Gynecology (Comprehensive Maternity & Legacy Care Wards)",
+      "Pediatrics and Neonatology (Child Care Hub - Dr. Vivek Sondhi)",
+      "Orthopedics, Spine and Joint Trauma Management",
+      "Gastroenterology and GI Surgery Services",
+      "Urology and Endourological Procedures",
+      "Nephrology and Hemodialysis Unit",
+      "Ophthalmology (Advanced Eye Care Clinic)",
+      "Otolaryngology (ENT Specialized Clinic)",
+      "Dermatology and Venereology",
+      "Psychiatry and Behavioral Sciences",
+      "Dental Surgery and Oral Health",
+      "Critical Care Medicine (ICU and Emergency Trauma 24x7)",
+      "Advanced Radio-Diagnosis and Imaging (Ultrasound & X-Ray Lab)",
+      "Pathology, Microbiology and Clinical Biochemistry (Jeevan Anmol Labs)",
+      "In-house 24x7 Retail Pharmacy Services"
+    ],
+    "room_types": {
+      "general_ward": 1500,
+      "semi_private": 3200,
+      "private": 5500
+    },
+    "key_charges": {
+      "opd_registration": 300,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_sanjeevan_40",
+    "name": "Sanjeevan Hospital (Unit of Sanjeevan Medical Research Centre Pvt. Ltd.)",
+    "location": "24, Ansari Road, Near Daryaganj Post Office, Daryaganj, New Delhi, Delhi - 110002",
+    "specialties": [
+      "General Medicine and Internal Therapeutics",
+      "General Surgery and Minimal Access Laparoscopic Surgery",
+      "Obstetrics and Gynecology (Comprehensive Maternity & Infertility Wards)",
+      "Pediatrics and Neonatology (Child Care Specialists)",
+      "Orthopedics, Spine and Joint Trauma Management",
+      "Cardiology and Interventional Cath Lab Services",
+      "Urology, Lithotripsy and Endourological Procedures",
+      "Nephrology and Advanced Hemodialysis Unit",
+      "Gastroenterology and GI Surgery Services",
+      "Neurology and Neurosurgery Consultations",
+      "Ophthalmology and Advanced Eye Care Clinic",
+      "Otolaryngology (ENT Specialized Surgery)",
+      "Dermatology and Venereology",
+      "Dental Surgery and Oral Implantology",
+      "Critical Care Medicine (ICU and Neonatal NICU 24x7)",
+      "Emergency Medicine and Acute Trauma Casualty (24x7)",
+      "Advanced Radio-Diagnosis and Imaging (Ultrasound, Digital X-Ray)",
+      "Pathology, Microbiology and Clinical Biochemistry Lab (NABH)"
+    ],
+    "room_types": {
+      "general_ward": 2500,
+      "semi_private": 4500,
+      "private": 7500
+    },
+    "key_charges": {
+      "opd_registration": 600,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_sanjaymaternity_41",
+    "name": "Sanjay Hospital & Maternity Centre",
+    "location": "H3PC+CGR, Ramphal Chowk Road, Chandar Vihar, Block B, Sector 7 Dwarka, New Delhi, Delhi - 110077",
+    "specialties": [
+      "Gynecology and Obstetrics (Comprehensive Maternity & Delivery Hub)",
+      "Pediatrics and Neonatology (Child Care Experts & Immunization Center)",
+      "General Medicine (Internal Medicine)",
+      "General Surgery and Minimal Access Laparoscopic Surgery",
+      "Orthopedic Surgery and Trauma Management",
+      "Family Planning and Reproductive Welfare Counseling",
+      "Infertility Assessment and Specialist Services",
+      "Emergency Care, Casualty Observation and Daycare Ward (24x7)",
+      "Basic Radio-Diagnosis and Imaging (Ultrasound and Digital X-Ray)",
+      "Pathology and Laboratory Diagnostics Medicine"
+    ],
+    "room_types": {
+      "general_ward": 1800,
+      "semi_private": 3500,
+      "private": 5500
+    },
+    "key_charges": {
+      "opd_registration": 400,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_spinal_42",
+    "name": "Indian Spinal Injuries Centre (ISIC)",
+    "location": "Sector C, Vasant Kunj, Opposite JNU Tertiary Gate, New Delhi, Delhi - 110070",
+    "specialties": [
+      "Spine Surgery and Comprehensive Neuro-Trauma Care",
+      "Orthopedics and Advanced Joint Replacement Surgery",
+      "Physical Medicine, Rehabilitation, and Robotics Therapy",
+      "Neurology and Neurosurgery",
+      "Rheumatology and Autoimmune Disorders Clinic",
+      "Cardiology Consultations",
+      "General Medicine (Internal Medicine)",
+      "General and Minimal Access Laparoscopic Surgery",
+      "Urology and Andrology Services",
+      "Emergency Medicine and Acute Multi-Bed Trauma (24x7)",
+      "Advanced Radio-Diagnosis and Imaging (3T MRI, 128-Slice CT)",
+      "Pathology and Laboratory Medicine Services"
+    ],
+    "room_types": {
+      "general_ward": 4500,
+      "semi_private": 7500,
+      "private": 12500
+    },
+    "key_charges": {
+      "opd_registration": 1200,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_psri_43",
+    "name": "Pushpawati Singhania Research Institute (PSRI Hospital)",
+    "location": "Press Enclave Marg, Near Max Hospital, Saket, New Delhi, Delhi - 110017",
+    "specialties": [
+      "Gastroenterology and Hepatology (Asia's Premier Treatment Wing)",
+      "Gastrointestinal and Hepatopancreatobiliary (HPB) Surgery",
+      "Liver Transplantation and Liver Failure Management Units",
+      "Nephrology, Dialysis, and Renal Transplantation Services",
+      "Urology and Robotics-Assisted Uro-Oncology Surgery",
+      "Cardiology and Interventional Cath Lab Services",
+      "Orthopedics, Spine, and Joint Replacement Surgery",
+      "Neurology and Neurosurgery Sciences",
+      "General Medicine (Internal Medicine)",
+      "General and Minimal Access Laparoscopic Surgery",
+      "Critical Care Medicine (Advanced Multi-Bed ICU Grid 24x7)",
+      "Emergency Medicine and Acute Multi-Bed Trauma Casualty (24x7)",
+      "Advanced Radio-Diagnosis and Imaging (3T MRI, 128-Slice CT)"
+    ],
+    "room_types": {
+      "general_ward": 5500,
+      "semi_private": 8500,
+      "private": 13500
+    },
+    "key_charges": {
+      "opd_registration": 1200,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_nationalheart_44",
+    "name": "National Heart Institute (NHI)",
+    "location": "49-50, Community Centre, East of Kailash, Near Kailash Colony Metro Station, New Delhi, Delhi - 110065",
+    "specialties": [
+      "Interventional Cardiology (Advanced Angioplasty and Electrophysiology)",
+      "Cardiothoracic and Vascular Surgery (CTVS - Bypass & Valve Operations)",
+      "Paediatric Cardiology and Congenital Heart Interventions",
+      "Critical Care Medicine (Intensive Cardiac ICU & CCU Grid 24x7)",
+      "General Medicine, Diabetes, and Metabolic Disorders",
+      "Nephrology and Advanced Renal Dialysis Unit",
+      "Pulmonology and Respiratory Sleep Medicine",
+      "Emergency Cardiac Resuscitation and Ambulance Command (24x7)",
+      "Advanced Cardiac Imaging, Multislice CT, and Color Doppler"
+    ],
+    "room_types": {
+      "general_ward": 4000,
+      "semi_private": 7000,
+      "private": 11500
+    },
+    "key_charges": {
+      "opd_registration": 1200,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_jaipurgolden_45",
+    "name": "Jaipur Golden Hospital",
+    "location": "Plot No. 2, Institutional Area, Sector 3, Rohini, New Delhi, Delhi - 110085",
+    "specialties": [
+      "General Medicine and Internal Therapeutics",
+      "General Surgery and Minimal Access Laparoscopic Surgery",
+      "Obstetrics and Gynecology (Maternity Ward Infrastructure)",
+      "Pediatrics and Neonatology (NICU and PICU Specialization)",
+      "Orthopedics and Joint Replacement Surgery",
+      "Cardiology and Interventional Cath Lab Services",
+      "Nephrology and Advanced Renal Dialysis Unit",
+      "Urology and Endourological Procedures",
+      "Neurology and Neurosurgery Sciences",
+      "Medical and Surgical Oncology (Cancer Care Unit)",
+      "Critical Care Medicine (Advanced ICU and CCU Grid)",
+      "Emergency Medicine and Acute Trauma Support (24x7)"
+    ],
+    "room_types": {
+      "general_ward": 2500,
+      "semi_private": 4500,
+      "private": 7500
+    },
+    "key_charges": {
+      "opd_registration": 600,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_kalrashriram_46",
+    "name": "Kalra Hospital & Shri Ram Heart Institute",
+    "location": "A-4, 5 & 6, Tulsi Dass Kalra Marg, Kirti Nagar, New Delhi, Delhi - 110015",
+    "specialties": [
+      "Cardiology and Interventional Cath Lab (Advanced Angioplasty)",
+      "Cardiothoracic and Vascular Surgery (CTVS Centre)",
+      "Neurology and Stroke Management",
+      "Neurosurgery (Spine and Brain Tumour Centre)",
+      "Orthopedics, Joint Replacement, and Complex Trauma",
+      "General Medicine (Internal Medicine)",
+      "General Surgery and Advanced Laparoscopic Sciences",
+      "Obstetrics and Gynecology (Comprehensive Maternity Wards)",
+      "Pediatrics and Neonatology (NICU and PICU Grid)",
+      "Nephrology and Advanced Hemodialysis Unit",
+      "Urology and Endourological Procedures",
+      "Gastroenterology and GI Surgery Services",
+      "Pulmonology, Respiratory Care, and Sleep Medicine",
+      "Critical Care Medicine (ICU and Intensive Cardiac CCU 24x7)",
+      "Emergency Medicine, Acute Resuscitation, and Trauma (24x7)"
+    ],
+    "room_types": {
+      "general_ward": 3000,
+      "semi_private": 5500,
+      "private": 8500
+    },
+    "key_charges": {
+      "opd_registration": 700,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_khetrapal_47",
+    "name": "Khetrapal Hospital",
+    "location": "F-95, Main Najafgarh Road, Near Bali Nagar, Kirti Nagar, New Delhi, Delhi - 110015",
+    "specialties": [
+      "General Surgery and Pioneer Laparoscopic Sciences (Dr. Anil Khetrapal)",
+      "Laparoscopic Hernia, Gallbladder, and Appendix Surgical Unit",
+      "Bariatric, Weight Loss, and Metabolic Surgery",
+      "Obstetrics and Gynecology (Advanced Maternity & C-Section Hub)",
+      "Infertility and Reproductive Specialist Consultation (IVF Unit)",
+      "General Medicine and Internal Therapeutics",
+      "Pediatrics and Neonatal Observation Care",
+      "Orthopedics and Joint Trauma Management",
+      "Urology and Endourological Procedures",
+      "Critical Care Medicine (ICU with Ventilator Grid)",
+      "Emergency, Casualty Resuscitation, and Daycare Ward (24x7)"
+    ],
+    "room_types": {
+      "general_ward": 2500,
+      "semi_private": 4500,
+      "private": 7000
+    },
+    "key_charges": {
+      "opd_registration": 600,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_jeewanmala_48",
+    "name": "Jeewan Mala Hospital",
+    "location": "67/1, New Rohtak Road, Near Karol Bagh Metro Station, Jeewan Mala Complex, New Delhi, Delhi - 110005",
+    "specialties": [
+      "General Medicine and Infectious Diseases Care",
+      "General and Laparoscopic Gallbladder/Hernia Surgery",
+      "Obstetrics and Gynecology (Subsidized Maternity Packages)",
+      "Pediatrics and Neonatal Development Care",
+      "Orthopedic Trauma and Fracture Management",
+      "Cardiology and Chest Disease Consultations",
+      "Urology and Lithotripsy Services",
+      "Emergency Care, Casualty Observation, and Minor OT (24x7)",
+      "Basic Radio-Diagnosis, Ultrasound, and X-Ray Imaging",
+      "Pathology and Routine Clinical Diagnostics Lab"
+    ],
+    "room_types": {
+      "general_ward": 2000,
+      "semi_private": 3500,
+      "private": 6000
+    },
+    "key_charges": {
+      "opd_registration": 500,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_jeewannursing_49",
+    "name": "Jeewan Nursing Home & Hospital",
+    "location": "2-B, Pusa Road, Opposite Metro Pillar Number 105, Karol Bagh, New Delhi, Delhi - 110005",
+    "specialties": [
+      "Gynecology and Obstetrics (Comprehensive Maternity Care)",
+      "Infertility and Reproductive Specialist Consultation",
+      "Pediatrics and Childhood Immunization Services",
+      "General Medicine (Internal Medicine)",
+      "General Surgery and Minimal Access Laparoscopy",
+      "Orthopedics and Minor Joint Manipulations",
+      "Ophthalmology (Routine Eye Care and Cataract Surgeries)",
+      "Emergency Care, Casualty Observation, and Short-Stay Recovery"
+    ],
+    "room_types": {
+      "general_ward": 2000,
+      "semi_private": 3500,
+      "private": 5500
+    },
+    "key_charges": {
+      "opd_registration": 500,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_munimayaram_50",
+    "name": "Muni Maya Ram Jain Hospital",
+    "location": "B-2, Institutional Area, Near Ring Road, Pitampura, New Delhi, Delhi - 110034",
+    "specialties": [
+      "General Medicine and Internal Therapeutics",
+      "Obstetrics and Gynecology (Charitable Subsidized Maternity Hub)",
+      "Pediatrics and Neonatal Observation Grid",
+      "General Surgery and Laparoscopic Appendix/Hernia/Gallbladder",
+      "Orthopedics and Joint Trauma Management",
+      "Ophthalmology (Advanced Cataract & Charitable Blind Relief Mission)",
+      "Otolaryngology (ENT Specialized Clinic)",
+      "Physiotherapy and Physical Rehabilitation Program",
+      "Emergency Care and Accident Casualty Daycare Wards (24x7)"
+    ],
+    "room_types": {
+      "general_ward": 1500,
+      "semi_private": 3000,
+      "private": 4500
+    },
+    "key_charges": {
+      "opd_registration": 200,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_jivodaya_51",
+    "name": "Jivodaya Hospital",
+    "location": "Pocket A-2, Institutional Area, Near Ashoka Apartments, Ashok Vihar Phase 3, New Delhi, Delhi - 110052",
+    "specialties": [
+      "General Medicine and Internal Therapeutics",
+      "Obstetrics and Gynecology (Charitable Maternity Core Block)",
+      "Pediatrics, Neonatal Care, and Immunization Center",
+      "General Surgery and Laparoscopic Appendectomy/Hernia",
+      "Orthopedics, Spine, and Trauma Management",
+      "Cardiology Consultations",
+      "Ophthalmology (Advanced Cataract & Vision Correction)",
+      "Critical Care Medicine and Short-Stay Intensive ICU",
+      "Emergency Medical Services and Accident Casualty (24x7)"
+    ],
+    "room_types": {
+      "general_ward": 1500,
+      "semi_private": 3000,
+      "private": 4500
+    },
+    "key_charges": {
+      "opd_registration": 250,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_lionsresearch_52",
+    "name": "Lions Hospital & Research Centre",
+    "location": "Kidwai Nagar West, Near INA Market Metro Station, New Delhi, Delhi - 110023",
+    "specialties": [
+      "Ophthalmology (Charitable Blind Relief & Advanced Cataract Wing)",
+      "General Medicine (Internal Medicine)",
+      "General Surgery and Laparoscopic Appendectomy/Hernia",
+      "Obstetrics and Gynecology (Subsidized Maternity Core Block)",
+      "Pediatrics and Childhood Immunization Center",
+      "Orthopedics and Joint Trauma Management",
+      "Dental Surgery, Prosthodontics, and Oral Health Center",
+      "Physiotherapy and Physical Rehabilitation Program"
+    ],
+    "room_types": {
+      "general_ward": 1500,
+      "semi_private": 3000,
+      "private": 4500
+    },
+    "key_charges": {
+      "opd_registration": 150,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_mpheart_53",
+    "name": "M. P. Heart Centre",
+    "location": "S-121, Greater Kailash Part 1, Near Savitri Cinema, New Delhi, Delhi - 110048",
+    "specialties": [
+      "Interventional Cardiology (Advanced Angiography and Stenting)",
+      "Non-Invasive Cardiology (Echocardiography, TMT, Holter Monitoring)",
+      "Preventive Cardiology and Lifestyle Counseling",
+      "Hypertension and Vascular Disease Management",
+      "Heart Failure and Arrhythmia Tracking Clinics",
+      "General Medicine and Metabolic Disorders",
+      "Emergency Cardiac Care Resuscitation and Daycare Observation"
+    ],
+    "room_types": {
+      "general_ward": 4000,
+      "semi_private": 6500,
+      "private": 9500
+    },
+    "key_charges": {
+      "opd_registration": 1000,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_nulikfe_54",
+    "name": "Nulife Hospital & Maternity Centre",
+    "location": "Outram Lines, Kingsway Camp, Near GTB Nagar Metro Station, Delhi - 110009",
+    "specialties": [
+      "Gynecology and Obstetrics (Comprehensive Maternity Care)",
+      "Pediatrics and Neonatology (Child Care Specialists)",
+      "General Medicine (Internal Medicine)",
+      "General Surgery and Minimal Access Laparoscopy",
+      "Orthopedics and Joint Trauma Management",
+      "Emergency First Aid and Daycare Observation Ward"
+    ],
+    "room_types": {
+      "general_ward": 1800,
+      "semi_private": 3200,
+      "private": 5000
+    },
+    "key_charges": {
+      "opd_registration": 400,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_metroheart_55",
+    "name": "Metro Hospital & Heart Institute",
+    "location": "14, Ring Road, Lajpat Nagar IV, Near Moolchand Flyover, New Delhi, Delhi - 110024",
+    "specialties": [
+      "Interventional Cardiology and Advanced Cath Lab",
+      "Cardiothoracic and Vascular Surgery (CTVS)",
+      "General Medicine (Internal Medicine)",
+      "General Surgery and Laparoscopic Sciences",
+      "Orthopedics and Joint Replacement Surgery",
+      "Pulmonology, Respiratory Care, and Sleep Medicine",
+      "Nephrology and Hemodialysis Unit",
+      "Urology and Endourological Procedures",
+      "Critical Care Medicine (Intensive Cardiac ICU Grid 24x7)",
+      "Emergency Resuscitation and Cardiac Trauma (24x7)"
+    ],
+    "room_types": {
+      "general_ward": 4000,
+      "semi_private": 6500,
+      "private": 11000
+    },
+    "key_charges": {
+      "opd_registration": 1000,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_mannhospital_56",
+    "name": "Mann Hospital (P) Ltd.",
+    "location": "32, Alipur Road, Civil Lines, Near Ritz Cinema, New Delhi, Delhi - 110054",
+    "specialties": [
+      "General Medicine and Internal Therapeutics",
+      "General Surgery and Minimal Access Laparoscopy",
+      "Obstetrics and Gynecology (Maternity Ward Framework)",
+      "Pediatrics and Neonatal Observation Care",
+      "Orthopedics and Joint Trauma Management",
+      "Emergency Medical Services and Accident Casualty"
+    ],
+    "room_types": {
+      "general_ward": 2000,
+      "semi_private": 3500,
+      "private": 5500
+    },
+    "key_charges": {
+      "opd_registration": 500,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_venkateshwar_dwarka",
+    "name": "Venkateshwar Hospital",
+    "location": "Sector 18, Near Sector 18A Metro Station, Dwarka, New Delhi, Delhi - 110075",
+    "specialties": [
+      "Cardio-Thoracic & Vascular Surgery (CTVS Centre)",
+      "Radiation, Medical and Surgical Oncology (Cancer Care Hub)",
+      "Orthopedics, Spine and Joint Replacement Surgery",
+      "Neurology and Neurosurgery Sciences",
+      "Nephrology, Urology and Renal Transplantation",
+      "Gastroenterology, Hepatology and GI Surgery",
+      "Pulmonology, Critical Care and Sleep Medicine",
+      "Obstetrics and Gynecology (Comprehensive Maternity Block)",
+      "Pediatrics and Neonatology (Advanced NICU/PICU)",
+      "Bariatric, Metabolic and Minimal Access Laparoscopic Surgery",
+      "Plastic, Aesthetic and Reconstructive Surgery",
+      "Internal Medicine and Infectious Diseases Control",
+      "Emergency Medicine and Multi-Bed Acute Trauma Center (24x7)",
+      "Advanced Radio-Diagnosis (3T MRI, 256-Slice CT, PET-CT)",
+      "NABL Accredited Pathology and Molecular Diagnostics"
+    ],
+    "room_types": {
+      "general_ward": 5500,
+      "semi_private": 8000,
+      "private": 13000
+    },
+    "key_charges": {
+      "opd_registration": 1200,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_max_dwarka",
+    "name": "Max Super Speciality Hospital, Dwarka",
+    "location": "Plot No. 1, Near Punjab National Bank (PNB) Regional Office, Sector 10, Dwarka, New Delhi, Delhi - 110075",
+    "specialties": [
+      "Comprehensive Cardiac Sciences (Interventional Cath Lab)",
+      "Oncology (Medical, Surgical, Radiation and Bone Marrow Transplant)",
+      "Neurosciences (Neurology and Advanced Neurosurgery)",
+      "Orthopedics and Joint Replacement (Robotics-Assisted Surgery)",
+      "Kidney, Liver and Multi-Organ Transplantation Services",
+      "Urology, Nephrology and Renal Dialysis Unit",
+      "Advanced Gastroenterology, Hepatology and GI Surgery",
+      "Obstetrics, Gynecology and Advanced Birthing Suites",
+      "Pediatrics, Neonatology and Adolescent Medicine",
+      "Pulmonology, Respiratory Care and Critical Care Medicine",
+      "Laparoscopic General and Minimal Access Surgery",
+      "Emergency, Trauma Resuscitation and Ambulance Networks (24x7)",
+      "Advanced Imaging and Nuclear Medicine (3T Digital MRI, PET-MRI)",
+      "Pathology, Microbiology and Molecular Genetics Lab"
+    ],
+    "room_types": {
+      "general_ward": 6500,
+      "semi_private": 9000,
+      "private": 14500
+    },
+    "key_charges": {
+      "opd_registration": 1500,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_manipal_dwarka",
+    "name": "Manipal Hospital, Dwarka",
+    "location": "Palam Vihar, Sector 6, Adjoining MTNL Building, Sector 6 Dwarka, New Delhi, Delhi - 110075",
+    "specialties": [
+      "Cardiac Sciences (Cardiology and Vascular Interventions)",
+      "Cancer Care Centre (Medical, Radiation and Surgical Oncology)",
+      "Renal Sciences (Nephrology, Urology and Kidney Transplants)",
+      "Orthopedics, Spine Care and Joint Replacement Core Hub",
+      "Neurosciences (Neurology, Stroke Management and Neurosurgery)",
+      "Gastrointestinal Sciences (Gastroenterology and GI Surgery)",
+      "Organ Transplants (Liver, Kidney, Cornea, Bone Marrow)",
+      "Obstetrics, Gynecology and High-Risk Pregnancy Management",
+      "Pediatrics, Neonatology (NICU Grid) and Child Development",
+      "Pulmonology, Respiratory Medicine and Intensive Critical Care",
+      "General and Advanced Minimal Access Laparoscopic Surgery",
+      "Emergency Medicine and Level-1 Trauma Casualty Grid (24x7)",
+      "Radio-Diagnosis and Advanced Neuro-Imaging (3T MRI, CT Scan)",
+      "Pathology, Microbiology and Laboratory Diagnostics Medicine"
+    ],
+    "room_types": {
+      "general_ward": 6000,
+      "semi_private": 8500,
+      "private": 13500
+    },
+    "key_charges": {
+      "opd_registration": 1500,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_aakash_dwarka",
+    "name": "Aakash Healthcare Super Speciality Hospital",
+    "location": "Hospital Plot, Road No. 201, Sector 3, Near Sector 11 Metro Station, Dwarka, New Delhi, Delhi - 110075",
+    "specialties": [
+      "Orthopedics and Joint Replacement (North India's Robotic Knee Hub)",
+      "Cardiology and Interventional Cath Lab Services",
+      "Neurology, Stroke Unit and Advanced Neurosurgery",
+      "Medical, Surgical and Gynae Oncology (Cancer Block)",
+      "Nephrology, Advanced Hemodialysis and Renal Transplant",
+      "Urology, Lithotripsy and Endourological Procedures",
+      "Gastroenterology, Hepatology and Advanced GI Surgery",
+      "Obstetrics and Gynecology (Aakash Mom Me Maternity Wards)",
+      "Pediatrics and Neonatological Intensive Observation (NICU)",
+      "Pulmonology, Respiratory Care and Sleep Apnea Medicine",
+      "General, Metabolic and Laparoscopic Bariatric Surgery",
+      "Emergency Trauma, Resuscitation and Disaster Casualty (24x7)",
+      "Advanced Radiology and Neuro-Imaging (3T Digital MRI, CT)",
+      "Pathology, Clinical Biochemistry and Lab Medicine (NABL)"
+    ],
+    "room_types": {
+      "general_ward": 5500,
+      "semi_private": 8000,
+      "private": 12500
+    },
+    "key_charges": {
+      "opd_registration": 1200,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_ayushman_dwarka",
+    "name": "Ayushman Hospital & Health Services",
+    "location": "Plot No. 2, Sector 12, Opposite Sector 12 Metro Station, Dwarka, New Delhi, Delhi - 110075",
+    "specialties": [
+      "General Medicine and Internal Therapeutics",
+      "General Surgery and Minimal Access Laparoscopy",
+      "Orthopedics, Arthroscopy and Joint Trauma Management",
+      "Gynecology and Obstetrics (Maternity and Delivery Packages)",
+      "Pediatrics and Neonatology (Child Care Specialists)",
+      "Cardiology Consultations and Non-Invasive Diagnostics",
+      "Nephrology and Renal Dialysis Services",
+      "Urology and Endourological Procedures",
+      "Gastroenterology and GI Endoscopy Clinic",
+      "Neurology and Neurosurgery Consultations",
+      "Ophthalmology and Otolaryngology (ENT Support Services)",
+      "Dermatology and Venereology",
+      "Critical Care Medicine and Multi-Bed Intensive ICU (24x7)",
+      "Emergency Care, Casualty Observation and Ambulance Support",
+      "Advanced Diagnostics Lab, Digital X-Ray and Ultrasound"
+    ],
+    "room_types": {
+      "general_ward": 3500,
+      "semi_private": 5500,
+      "private": 9000
+    },
+    "key_charges": {
+      "opd_registration": 800,
+      "diet_charges_per_day": 0
+    }
+  },
+  {
+    "id": "hosp_agrasen_dwarka",
+    "name": "Maharaja Agrasen Hospital, Dwarka",
+    "location": "Plot No. Institutional Area, Sector 1, Near Sector 10/11 Metro Corridor, Dwarka, New Delhi, Delhi - 110075",
+    "specialties": [
+      "General Medicine and Internal Therapeutics",
+      "General Surgery and Advanced Laparoscopic Sciences",
+      "Obstetrics and Gynecology (Charitable Trust Subsidized Maternity)",
+      "Pediatrics, Neonatology and Childhood Immunization Center",
+      "Orthopedics, Spine Care and Joint Trauma Management",
+      "Cardiology Consultations and Non-Invasive Cardiac Labs",
+      "Nephrology and Subsidized Renal Dialysis Unit",
+      "Urology and Endourological Procedures",
+      "Ophthalmology (Advanced Eye Care and Cataract Centre)",
+      "Otolaryngology (ENT Specialized Surgery)",
+      "Physiotherapy and Physical Rehabilitation Program",
+      "Critical Care Medicine (Multi-Bed Intensive ICU Grid)",
+      "Emergency Medicine and Accident Casualty Daycare Wards (24x7)",
+      "Advanced Radio-Diagnosis (Ultrasound, Digital X-Ray, CT Scan)",
+      "Comprehensive Pathology and Laboratory Medicine"
+    ],
+    "room_types": {
+      "general_ward": 2500,
+      "semi_private": 4000,
+      "private": 7500
+    },
+    "key_charges": {
+      "opd_registration": 100,
+      "diet_charges_per_day": 0
+    }
+  }
+]
