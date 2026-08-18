@@ -48,6 +48,32 @@ export interface CalculationStep {
   amount: number;
 }
 
+/**
+ * One line of the discharge bill the patient is left holding, with the reason
+ * it was not paid.
+ *
+ * This is the part caregivers never see coming. The hospital hands over a
+ * total; the insurer settles part of it; nobody itemises the gap. Naming each
+ * component and the clause behind it is the whole point of the tool.
+ */
+export interface PatientCharge {
+  label: string;
+  amount: number;
+  /** Plain-language reason, written to be read at an admission counter. */
+  reason: string;
+  /** Where it came from, for grouping and for the writeup. */
+  source:
+    | "proportionate_deduction"
+    | "co_pay"
+    | "deductible"
+    | "sub_limit"
+    | "sum_insured"
+    | "non_network"
+    | "non_payable_items";
+  /** True when the figure rests on an assumption rather than the policy text. */
+  estimated?: boolean;
+}
+
 export interface CalculationResult {
   billTotal: number;
   insurerPays: number;
@@ -59,9 +85,23 @@ export interface CalculationResult {
   /** The cap that was compared against, null when uncapped. */
   capPerDay: number | null;
   steps: CalculationStep[];
+  /** Itemised reasons the patient is paying anything at all. */
+  charges: PatientCharge[];
   /** Non-fatal notes: assumptions made, limits hit. */
   warnings: string[];
 }
+
+/**
+ * Hospitals bill a set of items no Indian health policy pays for: gloves,
+ * syringes, admission kits, attendant charges, documentation fees. IRDAI
+ * publishes the list; insurers call them non-medical or non-payable items.
+ *
+ * They are the single most common discharge surprise and they appear on
+ * every bill, so leaving them out would understate what the caregiver
+ * actually hands over. The share below is an illustrative planning figure,
+ * not a policy term — it is labelled as an estimate wherever it is shown.
+ */
+const NON_PAYABLE_ITEMS_PERCENT = 3;
 
 const inr = (n: number) =>
   `₹${Math.round(n).toLocaleString("en-IN")}`;
@@ -85,6 +125,7 @@ export function calculateOutOfPocket(input: CalculationInput): CalculationResult
 
   const steps: CalculationStep[] = [];
   const warnings: string[] = [];
+  const charges: PatientCharge[] = [];
 
   const cap = governingCap(policy, roomCategory);
   const capPerDay = cap.resolved_per_day;
@@ -114,6 +155,17 @@ export function calculateOutOfPocket(input: CalculationInput): CalculationResult
     const scaledShare = scalableShare * ratio;
 
     admissible = scaledShare + exemptShare;
+
+    charges.push({
+      label: "Proportionate deduction",
+      amount: round(scalableShare - scaledShare),
+      reason:
+        `Your policy covers ${inr(capPerDay)} a day for the room; this room costs ` +
+        `${inr(roomRatePerDay)}. Because you went above the limit, the insurer pays ` +
+        `only ${(ratio * 100).toFixed(0)}% of the surgeon, theatre, nursing and ` +
+        `consultant charges — not just the room difference.`,
+      source: "proportionate_deduction",
+    });
 
     steps.push({
       label: "Proportionate deduction",
@@ -153,6 +205,15 @@ export function calculateOutOfPocket(input: CalculationInput): CalculationResult
       (s) => s.category === procedureCategory
     );
     if (subLimit && admissible > subLimit.limit_amount) {
+      charges.push({
+        label: `${procedureCategory.replace(/_/g, " ")} sub-limit`,
+        amount: round(admissible - subLimit.limit_amount),
+        reason:
+          `This policy caps ${procedureCategory.replace(/_/g, " ")} at ` +
+          `${inr(subLimit.limit_amount)} ${subLimit.basis.replace(/_/g, " ")}, ` +
+          `however much cover you have left.`,
+        source: "sub_limit",
+      });
       admissible = subLimit.limit_amount;
       steps.push({
         label: "Sub-limit applied",
@@ -168,6 +229,14 @@ export function calculateOutOfPocket(input: CalculationInput): CalculationResult
 
   const sumInsured = policy.coverage.sum_insured;
   if (sumInsured !== null && admissible > sumInsured) {
+    charges.push({
+      label: "Above your sum insured",
+      amount: round(admissible - sumInsured),
+      reason:
+        `Your annual cover is ${inr(sumInsured)}. Anything past that is yours, ` +
+        `and this admission uses all of it.`,
+      source: "sum_insured",
+    });
     admissible = sumInsured;
     steps.push({
       label: "Sum insured reached",
@@ -180,6 +249,12 @@ export function calculateOutOfPocket(input: CalculationInput): CalculationResult
   /* --- Step 5: deductible ------------------------------------------ */
 
   if (policy.deductible.amount > 0) {
+    charges.push({
+      label: "Deductible",
+      amount: Math.min(policy.deductible.amount, round(admissible)),
+      reason: `The first ${inr(policy.deductible.amount)} of any claim is yours before cover starts.`,
+      source: "deductible",
+    });
     admissible = Math.max(0, admissible - policy.deductible.amount);
     steps.push({
       label: "Deductible",
@@ -197,6 +272,17 @@ export function calculateOutOfPocket(input: CalculationInput): CalculationResult
 
   if (coPayApplies) {
     const coPayAmount = admissible * (policy.co_pay.percent / 100);
+
+    charges.push({
+      label: `Co-payment (${policy.co_pay.percent}%)`,
+      amount: round(coPayAmount),
+      reason:
+        policy.co_pay.applies_to === "non_network_only"
+          ? `This hospital is outside your network, so you carry ${policy.co_pay.percent}% of whatever is approved.`
+          : `Your policy makes you carry ${policy.co_pay.percent}% of every approved claim. It applies after all other deductions.`,
+      source: "co_pay",
+    });
+
     admissible -= coPayAmount;
     steps.push({
       label: `Co-payment ${policy.co_pay.percent}%`,
@@ -212,6 +298,13 @@ export function calculateOutOfPocket(input: CalculationInput): CalculationResult
 
   if (!inNetwork) {
     if (policy.network.restricted_to_network) {
+      charges.push({
+        label: "Hospital not covered",
+        amount: round(admissible),
+        reason:
+          "This policy pays only at hospitals in its network. Treatment here is not covered at all.",
+        source: "non_network",
+      });
       admissible = 0;
       steps.push({
         label: "Outside network",
@@ -223,6 +316,12 @@ export function calculateOutOfPocket(input: CalculationInput): CalculationResult
     } else {
       const pct = policy.network.non_network_reimbursement_percent;
       if (pct !== null && pct !== undefined && pct < 100) {
+        charges.push({
+          label: "Non-network reimbursement",
+          amount: round(admissible * (1 - pct / 100)),
+          reason: `Outside the network only ${pct}% of the approved amount comes back to you, and it comes back later — you pay the hospital in full first.`,
+          source: "non_network",
+        });
         admissible = admissible * (pct / 100);
         steps.push({
           label: "Non-network reimbursement",
@@ -238,6 +337,25 @@ export function calculateOutOfPocket(input: CalculationInput): CalculationResult
 
   const insurerPays = Math.max(0, round(admissible));
   const patientPays = Math.max(0, round(billTotal - insurerPays));
+
+  // Non-medical consumables are billed by the hospital and paid by nobody
+  // else. They sit outside the admissible-amount arithmetic entirely, which
+  // is exactly why they surprise people at the counter.
+  if (insurerPays > 0) {
+    charges.push({
+      label: "Non-medical items",
+      amount: round(billTotal * (NON_PAYABLE_ITEMS_PERCENT / 100)),
+      reason:
+        "Gloves, syringes, admission kits, attendant charges and documentation " +
+        "fees are on IRDAI's non-payable list. No health policy covers them, and " +
+        "they appear on the final bill rather than in the claim.",
+      source: "non_payable_items",
+      estimated: true,
+    });
+  }
+
+  // Largest first: the caregiver wants the reason for the biggest number.
+  charges.sort((a, b) => b.amount - a.amount);
 
   steps.push({
     label: "You pay",
@@ -255,6 +373,7 @@ export function calculateOutOfPocket(input: CalculationInput): CalculationResult
     billTotal: round(billTotal),
     insurerPays,
     patientPays,
+    charges,
     deductionApplied: deductionPossible,
     ratio,
     capPerDay,
