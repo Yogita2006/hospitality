@@ -2,6 +2,7 @@
 
 import { useState, useRef, useCallback, useEffect } from "react";
 import type { NormalizedPolicy } from "@/lib/policy/policy.types";
+import { checkWaitingPeriod } from "@/lib/policy/waitingPeriods";
 import type { HospitalMatch } from "@/lib/hospitals/matchHospitals";
 import { EMPTY_FACETS, type Facets } from "@/lib/format";
 import PolicySummary from "@/components/PolicySummary";
@@ -117,18 +118,35 @@ export default function Home() {
     [specialty, procedure, pincode, networkOnly, origin, radiusKm, runMatch]
   );
 
+  /**
+   * Sample policies load their pre-extracted result instead of calling the
+   * model. The extraction has already been run and checked against the eval
+   * harness, so re-running it on every demo only burns quota and adds a
+   * minute of waiting to a result that cannot differ.
+   *
+   * Uploaded files still go through the real pipeline.
+   */
   const loadSample = useCallback(
     async (name: string) => {
       setPhase("reading");
+      setError([]);
+      setMatches([]);
+
       try {
-        const text = await fetch(`/samples/${name}.txt`).then((r) => r.text());
-        await handleFile(new File([text], `${name}.txt`, { type: "text/plain" }));
+        const policy = (await fetch(`/samples/expected/${name}.json`).then((r) => {
+          if (!r.ok) throw new Error("sample not found");
+          return r.json();
+        })) as NormalizedPolicy;
+
+        setPolicy(policy);
+        setPhase("ready");
+        await runMatch(policy, specialty, procedure, pincode, networkOnly, origin, radiusKm);
       } catch {
         setError(["That sample could not be loaded."]);
         setPhase("error");
       }
     },
-    [handleFile]
+    [specialty, procedure, pincode, networkOnly, origin, radiusKm, runMatch]
   );
 
   const applyFilters = (
@@ -193,6 +211,9 @@ export default function Home() {
     );
     applyFilters(spec, stillValid ? procedure : "", pincode, networkOnly);
   };
+
+  // Whether the procedure is payable at all comes before what it costs.
+  const waiting = policy ? checkWaitingPeriod(policy, procedure) : null;
 
   const packagesForSpecialty = specialty
     ? facets.packages.filter((p) => p.specialty === specialty)
@@ -489,6 +510,22 @@ export default function Home() {
                   </p>
                 </div>
               </section>
+
+              {waiting?.applies && waiting.message && (
+                <div className={`waiting ${waiting.stillWaiting === false ? "is-served" : ""}`}>
+                  <p className="waiting-head">
+                    {waiting.stillWaiting === false
+                      ? "Waiting period served"
+                      : "Waiting period applies"}
+                  </p>
+                  <p>{waiting.message}</p>
+                  {waiting.clause?.source_excerpt && (
+                    <p className="waiting-cite">
+                      Policy wording: &ldquo;{waiting.clause.source_excerpt}&rdquo;
+                    </p>
+                  )}
+                </div>
+              )}
 
               <section className="panel">
                 <div className="panel-head">
