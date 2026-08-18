@@ -53,6 +53,27 @@ function RoomLadder({
         ))}
       </div>
 
+      {expanded && expanded.result.charges.length > 0 && (
+        <div className="why">
+          <p className="why-head">
+            Why you pay {rupees(expanded.result.patientPays)}
+          </p>
+
+          {expanded.result.charges.map((charge, i) => (
+            <div className="why-row" key={i}>
+              <div>
+                <strong>
+                  {charge.label}
+                  {charge.estimated && <span className="why-est">estimate</span>}
+                </strong>
+                <p>{charge.reason}</p>
+              </div>
+              <span className="val num">{rupees(charge.amount)}</span>
+            </div>
+          ))}
+        </div>
+      )}
+
       {expanded && (
         <div className="breakdown">
           {expanded.result.steps.map((step, i) => (
